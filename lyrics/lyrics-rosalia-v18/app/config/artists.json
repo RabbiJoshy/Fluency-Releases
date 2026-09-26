@@ -1,0 +1,31 @@
+{
+  "rosalia": {
+    "albumImageMap": {
+      "El Mal Querer (2018)": "Artists/es/rosalia/Images/EL_MAL_QUERER.png",
+      "Los Ángeles (2017)": "Artists/es/rosalia/Images/LOS_ANGELES.jpg",
+      "Lux (2025)": "Artists/es/rosalia/Images/LUX.png",
+      "MOTOMAMI (2022)": "Artists/es/rosalia/Images/MOTOMAMI.webp",
+      "MOTOMAMI + (2022)": "Artists/es/rosalia/Images/MOTOMAMI_PLUS.png",
+      "RR (2023)": "Artists/es/rosalia/Images/RR.jpeg",
+      "Singles & Features": "Artists/es/rosalia/Images/SINGLES.jpg"
+    },
+    "albumsDictionary": "Artists/es/rosalia/albums.json",
+    "colorTheme": {
+      "primary": "#C41E3A",
+      "secondary": "#1C1C1C"
+    },
+    "defaultAlbumArt": "Artists/es/rosalia/Images/SINGLES.jpg",
+    "examplesPath": "Artists/es/rosalia/examples.json",
+    "indexPath": "Artists/es/rosalia/index.json",
+    "language": "spanish",
+    "masterPath": "Artists/es/rosalia/vocabulary_master.json",
+    "maxLevel": 3600,
+    "name": "Rosalía",
+    "releaseCompositionPath": "Artists/release-composition.json",
+    "releaseId": "lyrics-rosalia-v18",
+    "releaseManifestPath": "Artists/release-manifest.json",
+    "songsPath": "Artists/es/rosalia/songs.json",
+    "spotifyPath": "Artists/spotify_tracks.json",
+    "wsdEvidencePath": "Artists/es/rosalia/wsd-evidence.json"
+  }
+}

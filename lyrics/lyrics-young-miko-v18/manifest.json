@@ -1,0 +1,55 @@
+{
+  "artist_count": 1,
+  "assignment_status": "forced_leaf_assignments_preserved_in_dual_view_contract",
+  "card_count": 4461,
+  "catalog_content_id": "sha256:3ec4b7422a2536d637fd0f1c0e31d212e8730ba321fa83710f3f01a34d71c4d2",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:9e2db498d8cdfa311af1ef1d109058c50ceb9905b9287304d61f7e7cf64bcda0",
+  "composition_path": "composition.json",
+  "created_at": "2026-09-26T00:13:58.264425+00:00",
+  "files": [
+    {
+      "bytes": 6896076,
+      "content_id": "sha256:0077c358fae617f5da25e60f09fc3e370c5a17eeda641ec933e56a2cf50803e5",
+      "path": "app/Artists/es/young-miko/examples.json"
+    },
+    {
+      "bytes": 12645499,
+      "content_id": "sha256:dd71399eb62be784f97021a80f9de6c0b698a2d87eabd98d5ad9afc7f27f0108",
+      "path": "app/Artists/es/young-miko/index.json"
+    },
+    {
+      "bytes": 287955,
+      "content_id": "sha256:6ace9abb61b0a4b9299f351c1eb881031edf769436a4d38155474391414b67e1",
+      "path": "app/Artists/es/young-miko/songs.json"
+    },
+    {
+      "bytes": 2435022,
+      "content_id": "sha256:4cd083c15fb9d99db22b68abf5cd6306bd129b5fad7a962c86ddfbc41694d826",
+      "path": "app/Artists/es/young-miko/vocabulary_master.json"
+    },
+    {
+      "bytes": 8696853,
+      "content_id": "sha256:85e830cf2d399d0bc25fe49e24b73f596fdafb88e70dec35ef388a177734ab04",
+      "path": "app/Artists/es/young-miko/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 698,
+      "content_id": "sha256:3ec4b7422a2536d637fd0f1c0e31d212e8730ba321fa83710f3f01a34d71c4d2",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-young-miko-v18",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}

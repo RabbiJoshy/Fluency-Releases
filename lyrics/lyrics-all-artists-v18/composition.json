@@ -1,0 +1,123 @@
+{
+  "artists": [
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 10687,
+      "example_card_count": 10687,
+      "examples_content_id": "sha256:1ee271b0a0a2903d26456fc559d941bf8b20f594e79462b323c8e77f5cd05fba",
+      "index_content_id": "sha256:564699d4f831cd74849a7d755327e54c1f63cec359414c99b38eb173d7cf3079",
+      "language": "es",
+      "master_content_id": "sha256:435bc31f5f6dacb1614c2c6008146b404cb1f7789b9e8a70d3aa49f4f6a8d2ff",
+      "migration_status": "retained_materialized_output_for_product_parity",
+      "name": "Bad Bunny",
+      "slug": "bad-bunny",
+      "song_count": 295,
+      "source_id": "wsd_v18_plant_bad-bunny",
+      "wsd_evidence_content_id": "sha256:79e1d982806c91633e123edb38300f2398c4e9afb8b2e5b3822cd82ac3eb5f06"
+    },
+    {
+      "assignment_bridge_status": "native_v7_forced_and_supported_available",
+      "card_count": 3224,
+      "example_card_count": 3224,
+      "examples_content_id": "sha256:110c68c9814b8822c01a03593979e49bad21cfd8ca6a69f115e7ad80616cf7d3",
+      "index_content_id": "sha256:255cf122f2f0a0e2576ed3d5a939c81a3cf4e0e39f28e70ccb5c6ed2beaa5223",
+      "language": "es",
+      "master_content_id": "sha256:d72ea48e5672100580982057278d7c619246af2fc6963cdbbb367fe567247638",
+      "migration_status": "retained_materialized_output_for_product_parity",
+      "name": "Rosalía",
+      "slug": "rosalia",
+      "song_count": 107,
+      "source_id": "wsd_v18_plant_rosalia",
+      "wsd_evidence_content_id": "sha256:1a650daab7b34e0739eb132931e9b8ac25d3ef501ddc4f02a62a0a32d82f4575"
+    },
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 1860,
+      "example_card_count": 1860,
+      "examples_content_id": "sha256:228815e28ee5a8e2f015250b932c10303098789e188605a2893a3e07a2352130",
+      "index_content_id": "sha256:1dcce5e421f4037bac3fe874e7082767e5fe8f2c692c296ce6f5191350dfce3f",
+      "language": "es",
+      "master_content_id": "sha256:da994327648fadeb2cd1b1a7a10afe1b786dd438088a988901de403b43ec716d",
+      "migration_status": "retained_materialized_output_for_product_parity",
+      "name": "Joshua's Test Playlist",
+      "slug": "spanish-test-playlist",
+      "song_count": 31,
+      "source_id": "wsd_v18_plant_spanish-test-playlist",
+      "wsd_evidence_content_id": "sha256:876cc0156857ef545c0c2ddae5eff208013c2e51aa0dee8e869f43485995858c"
+    },
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 4461,
+      "example_card_count": 4461,
+      "examples_content_id": "sha256:8e87903f9f4e5fb71856443213d1a386e49dde7293e93729339447eb096c0fb4",
+      "index_content_id": "sha256:9f3526894f5a5bfe7663cad4baf0204c9016db3c9ca95122e88f8c95b55a5bba",
+      "language": "es",
+      "master_content_id": "sha256:4cd083c15fb9d99db22b68abf5cd6306bd129b5fad7a962c86ddfbc41694d826",
+      "migration_status": "retained_materialized_output_for_product_parity",
+      "name": "Young Miko",
+      "slug": "young-miko",
+      "song_count": 90,
+      "source_id": "wsd_v18_plant_young-miko",
+      "wsd_evidence_content_id": "sha256:251c6a40d309ee3cf6230433418a6a04e7209e625c0ff8054f692a45395070af"
+    }
+  ],
+  "composition_version": "lyrics-release-composition/v1",
+  "conflict_policy": "error",
+  "created_at": "2026-09-26T00:13:58.264425+00:00",
+  "fallback_policy": "none",
+  "layers": {
+    "artist:bad-bunny": {
+      "artifact_ids": {
+        "examples": "sha256:1ee271b0a0a2903d26456fc559d941bf8b20f594e79462b323c8e77f5cd05fba",
+        "index": "sha256:564699d4f831cd74849a7d755327e54c1f63cec359414c99b38eb173d7cf3079",
+        "master": "sha256:435bc31f5f6dacb1614c2c6008146b404cb1f7789b9e8a70d3aa49f4f6a8d2ff",
+        "wsd_evidence": "sha256:79e1d982806c91633e123edb38300f2398c4e9afb8b2e5b3822cd82ac3eb5f06"
+      },
+      "requires": {},
+      "source_id": "wsd_v18_plant_bad-bunny",
+      "source_type": "retained_materialized_output"
+    },
+    "artist:rosalia": {
+      "artifact_ids": {
+        "examples": "sha256:110c68c9814b8822c01a03593979e49bad21cfd8ca6a69f115e7ad80616cf7d3",
+        "index": "sha256:255cf122f2f0a0e2576ed3d5a939c81a3cf4e0e39f28e70ccb5c6ed2beaa5223",
+        "master": "sha256:d72ea48e5672100580982057278d7c619246af2fc6963cdbbb367fe567247638",
+        "wsd_evidence": "sha256:1a650daab7b34e0739eb132931e9b8ac25d3ef501ddc4f02a62a0a32d82f4575"
+      },
+      "requires": {},
+      "source_id": "wsd_v18_plant_rosalia",
+      "source_type": "retained_materialized_output"
+    },
+    "artist:spanish-test-playlist": {
+      "artifact_ids": {
+        "examples": "sha256:228815e28ee5a8e2f015250b932c10303098789e188605a2893a3e07a2352130",
+        "index": "sha256:1dcce5e421f4037bac3fe874e7082767e5fe8f2c692c296ce6f5191350dfce3f",
+        "master": "sha256:da994327648fadeb2cd1b1a7a10afe1b786dd438088a988901de403b43ec716d",
+        "wsd_evidence": "sha256:876cc0156857ef545c0c2ddae5eff208013c2e51aa0dee8e869f43485995858c"
+      },
+      "requires": {},
+      "source_id": "wsd_v18_plant_spanish-test-playlist",
+      "source_type": "retained_materialized_output"
+    },
+    "artist:young-miko": {
+      "artifact_ids": {
+        "examples": "sha256:8e87903f9f4e5fb71856443213d1a386e49dde7293e93729339447eb096c0fb4",
+        "index": "sha256:9f3526894f5a5bfe7663cad4baf0204c9016db3c9ca95122e88f8c95b55a5bba",
+        "master": "sha256:4cd083c15fb9d99db22b68abf5cd6306bd129b5fad7a962c86ddfbc41694d826",
+        "wsd_evidence": "sha256:251c6a40d309ee3cf6230433418a6a04e7209e625c0ff8054f692a45395070af"
+      },
+      "requires": {},
+      "source_id": "wsd_v18_plant_young-miko",
+      "source_type": "retained_materialized_output"
+    }
+  },
+  "mode": "lyrics",
+  "omitted_layers": [
+    {
+      "layer": "clean_artist_pipeline_rebuild",
+      "reason": "materialized parity assets retained; assignments were not recomputed"
+    }
+  ],
+  "publication_status": "production_release",
+  "release_id": "lyrics-all-artists-v18"
+}

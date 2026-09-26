@@ -1,0 +1,20 @@
+{
+  "young-miko": {
+    "colorTheme": {
+      "primary": "#8B5CF6",
+      "secondary": "#C4B5FD"
+    },
+    "examplesPath": "Artists/es/young-miko/examples.json",
+    "indexPath": "Artists/es/young-miko/index.json",
+    "language": "spanish",
+    "masterPath": "Artists/es/young-miko/vocabulary_master.json",
+    "maxLevel": 4700,
+    "name": "Young Miko",
+    "releaseCompositionPath": "Artists/release-composition.json",
+    "releaseId": "lyrics-young-miko-v18",
+    "releaseManifestPath": "Artists/release-manifest.json",
+    "songsPath": "Artists/es/young-miko/songs.json",
+    "spotifyPath": "Artists/spotify_tracks.json",
+    "wsdEvidencePath": "Artists/es/young-miko/wsd-evidence.json"
+  }
+}
