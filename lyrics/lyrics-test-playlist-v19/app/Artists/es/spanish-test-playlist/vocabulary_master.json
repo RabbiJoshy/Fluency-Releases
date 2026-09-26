@@ -145,6 +145,14 @@
         "context": "used to indicate direction",
         "source": "spanishdict",
         "sense_id": "sd:a#1"
+      },
+      {
+        "headword": "a",
+        "pos": "ADP",
+        "translation": "at",
+        "context": "used to indicate an exact moment",
+        "source": "spanishdict",
+        "sense_id": "sd:a#2"
       }
     ],
     "word": "a"
@@ -308,6 +316,14 @@
         "context": "transport",
         "source": "spanishdict",
         "sense_id": "sd:en#4"
+      },
+      {
+        "headword": "en",
+        "pos": "ADP",
+        "translation": "about",
+        "context": "concerning",
+        "source": "spanishdict",
+        "sense_id": "sd:en#5"
       }
     ],
     "word": "en"
@@ -742,6 +758,14 @@
     "senses": [
       {
         "headword": "las",
+        "pos": "DET",
+        "translation": "the",
+        "context": "plural; indicating something specific",
+        "source": "spanishdict",
+        "sense_id": "sd:las#1"
+      },
+      {
+        "headword": "las",
         "pos": "PRON",
         "translation": "you",
         "context": "second person plural feminine",
@@ -873,6 +897,14 @@
         "context": "in the past",
         "source": "spanishdict",
         "sense_id": "sd:ya#1"
+      },
+      {
+        "headword": "ya",
+        "pos": "ADV",
+        "translation": "right now",
+        "context": "in the present",
+        "source": "spanishdict",
+        "sense_id": "sd:ya#3"
       }
     ],
     "word": "ya"
@@ -1232,6 +1264,14 @@
       {
         "headword": "ves",
         "pos": "VERB",
+        "translation": "to see",
+        "context": "to perceive with the eyes",
+        "source": "spanishdict",
+        "sense_id": "sd:ves#1"
+      },
+      {
+        "headword": "ves",
+        "pos": "VERB",
         "translation": "to watch",
         "context": "to observe",
         "source": "spanishdict",
@@ -1286,6 +1326,14 @@
         "context": "used to indicate movement",
         "source": "spanishdict",
         "sense_id": "sd:va#1"
+      },
+      {
+        "headword": "va",
+        "pos": "VERB",
+        "translation": "to wear",
+        "context": "to have on",
+        "source": "spanishdict",
+        "sense_id": "sd:va#3"
       }
     ],
     "word": "va"
@@ -1419,6 +1467,14 @@
       {
         "headword": "frente",
         "pos": "NOUN",
+        "translation": "forehead",
+        "context": "anatomy",
+        "source": "spanishdict",
+        "sense_id": "sd:frente#1"
+      },
+      {
+        "headword": "frente",
+        "pos": "NOUN",
         "translation": "front",
         "context": "the part in front",
         "source": "spanishdict",
@@ -1462,6 +1518,14 @@
       "f8fe27"
     ],
     "senses": [
+      {
+        "headword": "hay",
+        "pos": "VERB",
+        "translation": "there is",
+        "context": "to exist; in statements",
+        "source": "spanishdict",
+        "sense_id": "sd:hay#1"
+      },
       {
         "headword": "hay",
         "pos": "VERB",
@@ -1934,6 +1998,14 @@
     "senses": [
       {
         "headword": "ha",
+        "pos": "NOUN",
+        "translation": "ha",
+        "context": "hectare",
+        "source": "spanishdict",
+        "sense_id": "sd:ha#1"
+      },
+      {
+        "headword": "ha",
         "pos": "VERB",
         "translation": "to have to",
         "context": "to be obligated to; used with \"de\"",
@@ -2300,6 +2372,14 @@
       {
         "headword": "fue",
         "pos": "VERB",
+        "translation": "to be",
+        "context": "used to talk about characteristics",
+        "source": "spanishdict",
+        "sense_id": "sd:fue#1"
+      },
+      {
+        "headword": "fue",
+        "pos": "VERB",
         "translation": "to go",
         "context": "used to indicate movement",
         "source": "spanishdict",
@@ -2465,6 +2545,14 @@
         "context": "hated person",
         "source": "spanishdict",
         "sense_id": "sd:cabrón#1"
+      },
+      {
+        "headword": "cabrón",
+        "pos": "NOUN",
+        "translation": "son of a bitch",
+        "context": "hated person",
+        "source": "spanishdict",
+        "sense_id": "sd:cabrón#2"
       }
     ],
     "word": "cabrón"
@@ -2940,6 +3028,22 @@
       {
         "headword": "eh",
         "pos": "INTJ",
+        "translation": "hey",
+        "context": "used to call attention",
+        "source": "spanishdict",
+        "sense_id": "sd:eh#1"
+      },
+      {
+        "headword": "eh",
+        "pos": "INTJ",
+        "translation": "eh",
+        "context": "used to fill space in a conversation",
+        "source": "spanishdict",
+        "sense_id": "sd:eh#2"
+      },
+      {
+        "headword": "eh",
+        "pos": "INTJ",
         "translation": "what",
         "context": "used to express confusion",
         "source": "spanishdict",
@@ -3062,6 +3166,14 @@
         "context": "general",
         "source": "spanishdict",
         "sense_id": "sd:bebé#1"
+      },
+      {
+        "headword": "bebé",
+        "pos": "VERB",
+        "translation": "to drink",
+        "context": "to consume",
+        "source": "spanishdict",
+        "sense_id": "sd:bebé#2"
       }
     ],
     "word": "bebé"
@@ -3081,6 +3193,14 @@
       "ef816d"
     ],
     "senses": [
+      {
+        "headword": "ven",
+        "pos": "PHRASE",
+        "translation": "come",
+        "context": "imperative; second person singular",
+        "source": "spanishdict",
+        "sense_id": "sd:ven#1"
+      },
       {
         "headword": "ven",
         "pos": "VERB",
@@ -3410,6 +3530,14 @@
       {
         "headword": "tener",
         "pos": "VERB",
+        "translation": "to have",
+        "context": "to possess",
+        "source": "spanishdict",
+        "sense_id": "sd:tener#1"
+      },
+      {
+        "headword": "tener",
+        "pos": "VERB",
         "translation": "to take",
         "context": "to grasp or carry",
         "source": "spanishdict",
@@ -3473,6 +3601,14 @@
       {
         "headword": "ah",
         "pos": "INTJ",
+        "translation": "ah",
+        "context": "used to express surprise or pity",
+        "source": "spanishdict",
+        "sense_id": "sd:ah#1"
+      },
+      {
+        "headword": "ah",
+        "pos": "INTJ",
         "translation": "what",
         "context": "used to express interrogation",
         "source": "spanishdict",
@@ -3494,6 +3630,14 @@
       "bad63c": "pues"
     },
     "senses": [
+      {
+        "headword": "pues",
+        "pos": "CCONJ",
+        "translation": "then",
+        "context": "indicating a solution",
+        "source": "spanishdict",
+        "sense_id": "sd:pues#1"
+      },
       {
         "headword": "pues",
         "pos": "CCONJ",
@@ -3866,6 +4010,14 @@
       {
         "headword": "meta",
         "pos": "NOUN",
+        "translation": "goal",
+        "context": "sports",
+        "source": "spanishdict",
+        "sense_id": "sd:meta#1"
+      },
+      {
+        "headword": "meta",
+        "pos": "NOUN",
         "translation": "target",
         "context": "objective",
         "source": "spanishdict",
@@ -4232,6 +4384,14 @@
     "senses": [
       {
         "headword": "así",
+        "pos": "ADV",
+        "translation": "like this",
+        "context": "in a certain way",
+        "source": "spanishdict",
+        "sense_id": "sd:así#1"
+      },
+      {
+        "headword": "así",
         "pos": "VERB",
         "translation": "to grab",
         "context": "to seize",
@@ -4251,6 +4411,14 @@
     "is_transparent_cognate": false,
     "lemma": "ser",
     "senses": [
+      {
+        "headword": "son",
+        "pos": "NOUN",
+        "translation": "sound",
+        "context": "music",
+        "source": "spanishdict",
+        "sense_id": "sd:son#1"
+      },
       {
         "headword": "son",
         "pos": "NOUN",
@@ -4480,6 +4648,14 @@
     "is_transparent_cognate": false,
     "lemma": "haber",
     "senses": [
+      {
+        "headword": "has",
+        "pos": "VERB",
+        "translation": "to have",
+        "context": "used in compound tenses",
+        "source": "spanishdict",
+        "sense_id": "sd:has#1"
+      },
       {
         "headword": "has",
         "pos": "VERB",
@@ -4740,6 +4916,14 @@
     "is_transparent_cognate": false,
     "lemma": "haber",
     "senses": [
+      {
+        "headword": "hubiera",
+        "pos": "VERB",
+        "translation": "to have",
+        "context": "used in compound tenses",
+        "source": "spanishdict",
+        "sense_id": "sd:hubiera#1"
+      },
       {
         "headword": "hubiera",
         "pos": "VERB",
@@ -5629,6 +5813,14 @@
         "context": "interrogative",
         "source": "spanishdict",
         "sense_id": "sd:woh#1"
+      },
+      {
+        "headword": "woh",
+        "pos": "PRON",
+        "translation": "que",
+        "context": "relative",
+        "source": "spanishdict",
+        "sense_id": "sd:woh#3"
       }
     ],
     "word": "woh"
@@ -5890,6 +6082,14 @@
     "is_transparent_cognate": false,
     "lemma": "decir",
     "senses": [
+      {
+        "headword": "dije",
+        "pos": "NOUN",
+        "translation": "charm",
+        "context": "jewelry",
+        "source": "spanishdict",
+        "sense_id": "sd:dije#1"
+      },
       {
         "headword": "dije",
         "pos": "VERB",
@@ -7654,6 +7854,14 @@
       {
         "headword": "pones",
         "pos": "VERB",
+        "translation": "to send",
+        "context": "to ship",
+        "source": "spanishdict",
+        "sense_id": "sd:pones#4"
+      },
+      {
+        "headword": "pones",
+        "pos": "VERB",
         "translation": "to give",
         "context": "to grade",
         "source": "spanishdict",
@@ -9366,6 +9574,14 @@
         "context": "used to express surprise",
         "source": "spanishdict",
         "sense_id": "sd:oh#1"
+      },
+      {
+        "headword": "oh",
+        "pos": "INTJ",
+        "translation": "en serio",
+        "context": "used to express disbelief",
+        "source": "spanishdict",
+        "sense_id": "sd:oh#6"
       }
     ],
     "word": "oh"
@@ -10203,6 +10419,14 @@
     "senses": [
       {
         "headword": "pensé",
+        "pos": "PHRASE",
+        "translation": "I thought",
+        "context": "I reflected; preterite indicative; first person singular",
+        "source": "spanishdict",
+        "sense_id": "sd:pensé#1"
+      },
+      {
+        "headword": "pensé",
         "pos": "VERB",
         "translation": "to think",
         "context": "to reflect",
@@ -10250,6 +10474,14 @@
       {
         "headword": "toma",
         "pos": "NOUN",
+        "translation": "capture",
+        "context": "military",
+        "source": "spanishdict",
+        "sense_id": "sd:toma#1"
+      },
+      {
+        "headword": "toma",
+        "pos": "NOUN",
         "translation": "intake",
         "context": "of gas, air, electricity",
         "source": "spanishdict",
@@ -10268,6 +10500,14 @@
     "is_transparent_cognate": false,
     "lemma": "mucho",
     "senses": [
+      {
+        "headword": "muchas",
+        "pos": "ADJ",
+        "translation": "many",
+        "context": "a large amount",
+        "source": "spanishdict",
+        "sense_id": "sd:muchas#3"
+      },
       {
         "headword": "muchas",
         "pos": "PRON",
@@ -10358,6 +10598,14 @@
       "eb2f13be": "pasándola"
     },
     "senses": [
+      {
+        "headword": "pasar",
+        "pos": "VERB",
+        "translation": "to pass",
+        "context": "to give",
+        "source": "spanishdict",
+        "sense_id": "sd:pasar#1"
+      },
       {
         "headword": "pasar",
         "pos": "VERB",
@@ -10465,6 +10713,14 @@
     "senses": [
       {
         "headword": "entiendo",
+        "pos": "PHRASE",
+        "translation": "I see",
+        "context": "used as a stand-alone reply; first person singular",
+        "source": "spanishdict",
+        "sense_id": "sd:entiendo#1"
+      },
+      {
+        "headword": "entiendo",
         "pos": "VERB",
         "translation": "to understand",
         "context": "to comprehend",
@@ -10535,6 +10791,14 @@
       "892a39"
     ],
     "senses": [
+      {
+        "headword": "estas",
+        "pos": "ADJ",
+        "translation": "these",
+        "context": "feminine demonstrative",
+        "source": "spanishdict",
+        "sense_id": "sd:estas#1"
+      },
       {
         "headword": "estas",
         "pos": "ADJ",
@@ -11164,6 +11428,14 @@
         "context": "to cause concern",
         "source": "spanishdict",
         "sense_id": "sd:preocupes#1"
+      },
+      {
+        "headword": "preocupes",
+        "pos": "VERB",
+        "translation": "to be concerned",
+        "context": "to cause concern",
+        "source": "spanishdict",
+        "sense_id": "sd:preocupes#2"
       }
     ],
     "word": "preocupes"
@@ -11381,6 +11653,14 @@
     "senses": [
       {
         "headword": "deje",
+        "pos": "NOUN",
+        "translation": "accent",
+        "context": "lilt",
+        "source": "spanishdict",
+        "sense_id": "sd:deje#1"
+      },
+      {
+        "headword": "deje",
         "pos": "VERB",
         "translation": "to leave",
         "context": "to put",
@@ -11436,6 +11716,14 @@
         "context": "a large amount",
         "source": "spanishdict",
         "sense_id": "sd:mucha#3"
+      },
+      {
+        "headword": "mucha",
+        "pos": "PRON",
+        "translation": "a lot",
+        "context": "a large amount",
+        "source": "spanishdict",
+        "sense_id": "sd:mucha#6"
       }
     ],
     "word": "mucha"
@@ -11816,6 +12104,14 @@
       {
         "headword": "bajo",
         "pos": "ADJ",
+        "translation": "short",
+        "context": "not tall",
+        "source": "spanishdict",
+        "sense_id": "sd:bajo#1"
+      },
+      {
+        "headword": "bajo",
+        "pos": "ADJ",
         "translation": "low",
         "context": "not tall",
         "source": "spanishdict",
@@ -12134,6 +12430,14 @@
         "context": "used to express a quality",
         "source": "spanishdict",
         "sense_id": "sd:estan#1"
+      },
+      {
+        "headword": "estan",
+        "pos": "VERB",
+        "translation": "to stay",
+        "context": "to visit",
+        "source": "spanishdict",
+        "sense_id": "sd:estan#6"
       }
     ],
     "word": "estan"
@@ -12303,6 +12607,14 @@
       "f61585": "mirándote"
     },
     "senses": [
+      {
+        "headword": "mirar",
+        "pos": "VERB",
+        "translation": "to look at",
+        "context": "to direct one's gaze at",
+        "source": "spanishdict",
+        "sense_id": "sd:mirar#1"
+      },
       {
         "headword": "mirar",
         "pos": "VERB",
@@ -12523,6 +12835,14 @@
         "context": "direction",
         "source": "spanishdict",
         "sense_id": "sd:fuera#2"
+      },
+      {
+        "headword": "fuera",
+        "pos": "VERB",
+        "translation": "to be",
+        "context": "used to talk about characteristics",
+        "source": "spanishdict",
+        "sense_id": "sd:fuera#5"
       }
     ],
     "word": "fuera"
@@ -12589,6 +12909,14 @@
       {
         "headword": "entender",
         "pos": "VERB",
+        "translation": "to understand",
+        "context": "to comprehend",
+        "source": "spanishdict",
+        "sense_id": "sd:entender#1"
+      },
+      {
+        "headword": "entender",
+        "pos": "VERB",
         "translation": "to hear",
         "context": "legal; used with \"en\"",
         "source": "spanishdict",
@@ -12628,6 +12956,14 @@
     "is_transparent_cognate": false,
     "lemma": "rato",
     "senses": [
+      {
+        "headword": "rato",
+        "pos": "NOUN",
+        "translation": "while",
+        "context": "period of time",
+        "source": "spanishdict",
+        "sense_id": "sd:rato#1"
+      },
       {
         "headword": "rato",
         "pos": "NOUN",
@@ -13046,6 +13382,14 @@
         "context": "beautiful",
         "source": "spanishdict",
         "sense_id": "sd:bonita#1"
+      },
+      {
+        "headword": "bonita",
+        "pos": "NOUN",
+        "translation": "bonito",
+        "context": "fish",
+        "source": "spanishdict",
+        "sense_id": "sd:bonita#6"
       }
     ],
     "word": "bonita"
@@ -13326,6 +13670,14 @@
     "is_transparent_cognate": false,
     "lemma": "saber",
     "senses": [
+      {
+        "headword": "sepa",
+        "pos": "VERB",
+        "translation": "to know",
+        "context": "to have knowledge",
+        "source": "spanishdict",
+        "sense_id": "sd:sepa#1"
+      },
       {
         "headword": "sepa",
         "pos": "VERB",
@@ -14664,6 +15016,14 @@
         "context": "to have knowledge",
         "source": "spanishdict",
         "sense_id": "sd:sepas#1"
+      },
+      {
+        "headword": "sepas",
+        "pos": "VERB",
+        "translation": "to hear",
+        "context": "to learn of",
+        "source": "spanishdict",
+        "sense_id": "sd:sepas#3"
       }
     ],
     "word": "sepas"
@@ -15186,6 +15546,14 @@
         "context": "used in compound tenses",
         "source": "spanishdict",
         "sense_id": "sd:habido#1"
+      },
+      {
+        "headword": "habido",
+        "pos": "VERB",
+        "translation": "to have to",
+        "context": "to be obligated to; used with \"de\"",
+        "source": "spanishdict",
+        "sense_id": "sd:habido#2"
       }
     ],
     "word": "habido"
@@ -17757,6 +18125,14 @@
       {
         "headword": "metí",
         "pos": "VERB",
+        "translation": "to stick",
+        "context": "to place",
+        "source": "spanishdict",
+        "sense_id": "sd:metí#2"
+      },
+      {
+        "headword": "metí",
+        "pos": "VERB",
         "translation": "to fit",
         "context": "to place",
         "source": "spanishdict",
@@ -18448,6 +18824,14 @@
         "context": "to dominate",
         "source": "spanishdict",
         "sense_id": "sd:conquistar#1"
+      },
+      {
+        "headword": "conquistar",
+        "pos": "VERB",
+        "translation": "to captivate",
+        "context": "to seduce",
+        "source": "spanishdict",
+        "sense_id": "sd:conquistar#3"
       }
     ],
     "word": "conquistar"
@@ -18844,6 +19228,14 @@
         "context": "to be available",
         "source": "spanishdict",
         "sense_id": "sd:quedaste#1"
+      },
+      {
+        "headword": "quedaste",
+        "pos": "VERB",
+        "translation": "to remain",
+        "context": "to be available",
+        "source": "spanishdict",
+        "sense_id": "sd:quedaste#2"
       }
     ],
     "word": "quedaste"
@@ -22861,9 +23253,9 @@
         "headword": "haters",
         "pos": "NOUN",
         "translation": "plural of hater",
-        "context": "",
-        "source": "wiktionary",
-        "sense_id": "wiktionary:haters#1"
+        "context": "lexical fallback",
+        "source": "retained_fallback",
+        "sense_id": "retained:haters#1"
       }
     ],
     "word": "haters"
@@ -23310,6 +23702,14 @@
       {
         "headword": "chingar",
         "pos": "VERB",
+        "translation": "to fuck with",
+        "context": "to pester",
+        "source": "spanishdict",
+        "sense_id": "sd:chingar#1"
+      },
+      {
+        "headword": "chingar",
+        "pos": "VERB",
         "translation": "to be a pain in the ass",
         "context": "to bother",
         "source": "spanishdict",
@@ -23525,6 +23925,15 @@
         "context": "adult female",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:mujer#1",
+        "surface_word": "mujerón"
+      },
+      {
+        "headword": "mujer",
+        "pos": "NOUN",
+        "translation": "wife",
+        "context": "via marriage",
+        "source": "spanishdict:headword_borrow",
+        "sense_id": "sd:mujer#2",
         "surface_word": "mujerón"
       }
     ],
@@ -24484,10 +24893,10 @@
       {
         "headword": "orilla",
         "pos": "NOUN",
-        "translation": "shore",
-        "context": "geography",
+        "translation": "edge",
+        "context": "border",
         "source": "spanishdict:headword_borrow",
-        "sense_id": "sd:orilla#1",
+        "sense_id": "sd:orilla#3",
         "surface_word": "orillita"
       }
     ],
@@ -25050,10 +25459,10 @@
       {
         "headword": "destendida",
         "pos": "VERB",
-        "translation": "to neglect",
-        "context": "to fail to attend to responsibilities",
+        "translation": "to ignore",
+        "context": "to overlook",
         "source": "spanishdict",
-        "sense_id": "sd:destendida#1"
+        "sense_id": "sd:destendida#3"
       }
     ],
     "word": "destendida"
@@ -25791,11 +26200,11 @@
     "senses": [
       {
         "headword": "tucu",
-        "pos": "NOUN",
-        "translation": "pliegue",
-        "context": "sewing",
+        "pos": "VERB",
+        "translation": "meter",
+        "context": "to insert",
         "source": "spanishdict",
-        "sense_id": "sd:tucu#3"
+        "sense_id": "sd:tucu#1"
       }
     ],
     "word": "tucu"
@@ -25830,6 +26239,14 @@
     "is_transparent_cognate": false,
     "lemma": "volver",
     "senses": [
+      {
+        "headword": "volví",
+        "pos": "VERB",
+        "translation": "to return",
+        "context": "to be back",
+        "source": "spanishdict",
+        "sense_id": "sd:volví#1"
+      },
       {
         "headword": "volví",
         "pos": "VERB",
@@ -26293,6 +26710,14 @@
       {
         "headword": "meto",
         "pos": "VERB",
+        "translation": "to stick",
+        "context": "to place",
+        "source": "spanishdict",
+        "sense_id": "sd:meto#2"
+      },
+      {
+        "headword": "meto",
+        "pos": "VERB",
         "translation": "to fit",
         "context": "to place",
         "source": "spanishdict",
@@ -26339,6 +26764,14 @@
       "fd30f9"
     ],
     "senses": [
+      {
+        "headword": "mira",
+        "pos": "NOUN",
+        "translation": "intention",
+        "context": "purpose",
+        "source": "spanishdict",
+        "sense_id": "sd:mira#3"
+      },
       {
         "headword": "mira",
         "pos": "VERB",
@@ -26526,6 +26959,14 @@
         "context": "time of day",
         "source": "spanishdict",
         "sense_id": "sd:amanecer#1"
+      },
+      {
+        "headword": "amanecer",
+        "pos": "VERB",
+        "translation": "to dawn",
+        "context": "to grow light",
+        "source": "spanishdict",
+        "sense_id": "sd:amanecer#4"
       }
     ],
     "word": "amanecer"
@@ -26568,6 +27009,14 @@
         "context": "to travel by; used with \"en\"",
         "source": "spanishdict",
         "sense_id": "sd:andamos#3"
+      },
+      {
+        "headword": "andamos",
+        "pos": "VERB",
+        "translation": "to go",
+        "context": "to be in a certain state",
+        "source": "spanishdict",
+        "sense_id": "sd:andamos#5"
       }
     ],
     "word": "andamos"
@@ -26669,6 +27118,14 @@
     "is_transparent_cognate": false,
     "lemma": "aún",
     "senses": [
+      {
+        "headword": "aún",
+        "pos": "ADV",
+        "translation": "still",
+        "context": "indicating time",
+        "source": "spanishdict",
+        "sense_id": "sd:aún#1"
+      },
       {
         "headword": "aún",
         "pos": "ADV",
@@ -26785,6 +27242,14 @@
         "context": "gesture",
         "source": "spanishdict",
         "sense_id": "sd:beso#1"
+      },
+      {
+        "headword": "beso",
+        "pos": "VERB",
+        "translation": "to kiss",
+        "context": "to give a kiss",
+        "source": "spanishdict",
+        "sense_id": "sd:beso#6"
       }
     ],
     "word": "beso"
@@ -26884,6 +27349,14 @@
     "is_transparent_cognate": false,
     "lemma": "bonito",
     "senses": [
+      {
+        "headword": "bonito",
+        "pos": "ADJ",
+        "translation": "pretty",
+        "context": "beautiful",
+        "source": "spanishdict",
+        "sense_id": "sd:bonito#1"
+      },
       {
         "headword": "bonito",
         "pos": "NOUN",
@@ -27093,6 +27566,14 @@
         "context": "hairstyle",
         "source": "spanishdict",
         "sense_id": "sd:corte#4"
+      },
+      {
+        "headword": "corte",
+        "pos": "NOUN",
+        "translation": "edge",
+        "context": "cutting edge",
+        "source": "spanishdict",
+        "sense_id": "sd:corte#5"
       }
     ],
     "word": "corte"
@@ -27107,6 +27588,14 @@
     "is_transparent_cognate": false,
     "lemma": "cuero",
     "senses": [
+      {
+        "headword": "cueros",
+        "pos": "NOUN",
+        "translation": "leather",
+        "context": "material",
+        "source": "spanishdict",
+        "sense_id": "sd:cueros#1"
+      },
       {
         "headword": "cueros",
         "pos": "NOUN",
@@ -27397,6 +27886,14 @@
         "context": "to complete",
         "source": "spanishdict",
         "sense_id": "sd:haciéndotelo#1"
+      },
+      {
+        "headword": "haciéndotelo",
+        "pos": "VERB",
+        "translation": "to make",
+        "context": "to produce",
+        "source": "spanishdict",
+        "sense_id": "sd:haciéndotelo#2"
       }
     ],
     "word": "haciéndotelo"
@@ -27494,6 +27991,14 @@
     "is_transparent_cognate": false,
     "lemma": "largo",
     "senses": [
+      {
+        "headword": "largas",
+        "pos": "VERB",
+        "translation": "to pay out",
+        "context": "nautical",
+        "source": "spanishdict",
+        "sense_id": "sd:largas#1"
+      },
       {
         "headword": "largas",
         "pos": "VERB",
@@ -28194,6 +28699,14 @@
     "is_transparent_cognate": false,
     "lemma": "singar",
     "senses": [
+      {
+        "headword": "singando",
+        "pos": "VERB",
+        "translation": "to fuck",
+        "context": "to have sex",
+        "source": "spanishdict",
+        "sense_id": "sd:singando#1"
+      },
       {
         "headword": "singando",
         "pos": "VERB",
@@ -30279,6 +30792,14 @@
         "context": "hated person",
         "source": "spanishdict",
         "sense_id": "sd:cabrona#1"
+      },
+      {
+        "headword": "cabrona",
+        "pos": "NOUN",
+        "translation": "son of a bitch",
+        "context": "hated person",
+        "source": "spanishdict",
+        "sense_id": "sd:cabrona#2"
       }
     ],
     "word": "cabrona"
@@ -30300,6 +30821,14 @@
         "context": "hated person",
         "source": "spanishdict",
         "sense_id": "sd:cabrones#1"
+      },
+      {
+        "headword": "cabrones",
+        "pos": "NOUN",
+        "translation": "son of a bitch",
+        "context": "hated person",
+        "source": "spanishdict",
+        "sense_id": "sd:cabrones#2"
       }
     ],
     "word": "cabrones"
@@ -30958,6 +31487,14 @@
         "context": "to pester",
         "source": "spanishdict",
         "sense_id": "sd:chingamos#1"
+      },
+      {
+        "headword": "chingamos",
+        "pos": "VERB",
+        "translation": "to be a pain in the ass",
+        "context": "to bother",
+        "source": "spanishdict",
+        "sense_id": "sd:chingamos#5"
       }
     ],
     "word": "chingamos"
@@ -32764,10 +33301,10 @@
       {
         "headword": "enchulo",
         "pos": "VERB",
-        "translation": "to plug in",
-        "context": "electricity",
+        "translation": "to join",
+        "context": "to put together",
         "source": "spanishdict",
-        "sense_id": "sd:enchulo#1"
+        "sense_id": "sd:enchulo#2"
       }
     ],
     "word": "enchulo"
@@ -32807,6 +33344,14 @@
     "is_transparent_cognate": false,
     "lemma": "encontrar",
     "senses": [
+      {
+        "headword": "encuentras",
+        "pos": "VERB",
+        "translation": "to discover",
+        "context": "to uncover",
+        "source": "spanishdict",
+        "sense_id": "sd:encuentras#2"
+      },
       {
         "headword": "encuentras",
         "pos": "VERB",
@@ -33464,11 +34009,11 @@
     "senses": [
       {
         "headword": "gardeo",
-        "pos": "NOUN",
-        "translation": "jardín",
-        "context": "green area",
+        "pos": "VERB",
+        "translation": "trabajar en el jardín",
+        "context": "to work in a garden",
         "source": "spanishdict",
-        "sense_id": "sd:gardeo#1"
+        "sense_id": "sd:gardeo#3"
       }
     ],
     "word": "gardeo"
@@ -35302,10 +35847,11 @@
       {
         "headword": "mamar",
         "pos": "VERB",
-        "translation": "to suckle",
+        "translation": "they suckle",
         "context": "to nurse",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:mamar#1",
+        "inflected_surface": "maman",
         "surface_word": "maman"
       }
     ],
@@ -35527,7 +36073,7 @@
       {
         "headword": "mariachi",
         "pos": "NOUN",
-        "translation": "a traditional form of music from the Mexican state of Jalisco",
+        "translation": "a mariachi band",
         "context": "",
         "source": "wiktionary",
         "sense_id": "wiktionary:mariachi#1"
@@ -35594,6 +36140,14 @@
     "is_transparent_cognate": false,
     "lemma": "mejor",
     "senses": [
+      {
+        "headword": "mejores",
+        "pos": "ADJ",
+        "translation": "better",
+        "context": "improved or superior",
+        "source": "spanishdict",
+        "sense_id": "sd:mejores#1"
+      },
       {
         "headword": "mejores",
         "pos": "ADJ",
@@ -36286,11 +36840,27 @@
     "senses": [
       {
         "headword": "nueva",
+        "pos": "NOUN",
+        "translation": "tidings",
+        "context": "general",
+        "source": "spanishdict",
+        "sense_id": "sd:nueva#1"
+      },
+      {
+        "headword": "nueva",
         "pos": "ADJ",
         "translation": "new",
         "context": "brand-new",
         "source": "spanishdict",
         "sense_id": "sd:nueva#3"
+      },
+      {
+        "headword": "nueva",
+        "pos": "ADJ",
+        "translation": "fresh",
+        "context": "original",
+        "source": "spanishdict",
+        "sense_id": "sd:nueva#4"
       }
     ],
     "word": "nueva"
@@ -36505,6 +37075,14 @@
     "is_transparent_cognate": false,
     "lemma": "pa",
     "senses": [
+      {
+        "headword": "pa",
+        "pos": "NOUN",
+        "translation": "to",
+        "context": "preposition",
+        "source": "spanishdict",
+        "sense_id": "sd:pa#3"
+      },
       {
         "headword": "pa",
         "pos": "NOUN",
@@ -37674,6 +38252,14 @@
       {
         "headword": "portes",
         "pos": "NOUN",
+        "translation": "carriage",
+        "context": "freightage",
+        "source": "spanishdict",
+        "sense_id": "sd:portes#5"
+      },
+      {
+        "headword": "portes",
+        "pos": "NOUN",
         "translation": "transport",
         "context": "freightage",
         "source": "spanishdict",
@@ -37780,6 +38366,14 @@
     "is_transparent_cognate": false,
     "lemma": "preocupar",
     "senses": [
+      {
+        "headword": "preocupe",
+        "pos": "VERB",
+        "translation": "to worry",
+        "context": "to cause concern",
+        "source": "spanishdict",
+        "sense_id": "sd:preocupe#1"
+      },
       {
         "headword": "preocupe",
         "pos": "VERB",
@@ -38421,6 +39015,14 @@
       {
         "headword": "resista",
         "pos": "VERB",
+        "translation": "to withstand",
+        "context": "to remain unharmed by",
+        "source": "spanishdict",
+        "sense_id": "sd:resista#1"
+      },
+      {
+        "headword": "resista",
+        "pos": "VERB",
         "translation": "to take",
         "context": "to remain unharmed by",
         "source": "spanishdict",
@@ -38445,6 +39047,14 @@
         "context": "to remain unharmed by",
         "source": "spanishdict",
         "sense_id": "sd:resistas#1"
+      },
+      {
+        "headword": "resistas",
+        "pos": "VERB",
+        "translation": "to take",
+        "context": "to remain unharmed by",
+        "source": "spanishdict",
+        "sense_id": "sd:resistas#2"
       }
     ],
     "word": "resistas"
@@ -39106,6 +39716,14 @@
     "senses": [
       {
         "headword": "seria",
+        "pos": "VERB",
+        "translation": "to arrange in series",
+        "context": "to order in series",
+        "source": "spanishdict",
+        "sense_id": "sd:seria#1"
+      },
+      {
+        "headword": "seria",
         "pos": "ADJ",
         "translation": "serious",
         "context": "solemn",
@@ -39552,6 +40170,14 @@
         "context": "filthy",
         "source": "spanishdict",
         "sense_id": "sd:sucias#1"
+      },
+      {
+        "headword": "sucias",
+        "pos": "ADJ",
+        "translation": "foul",
+        "context": "dishonest",
+        "source": "spanishdict",
+        "sense_id": "sd:sucias#3"
       }
     ],
     "word": "sucias"
@@ -39716,6 +40342,14 @@
     "is_transparent_cognate": false,
     "lemma": "tanto",
     "senses": [
+      {
+        "headword": "tanta",
+        "pos": "NOUN",
+        "translation": "bread",
+        "context": "culinary",
+        "source": "spanishdict",
+        "sense_id": "sd:tanta#1"
+      },
       {
         "headword": "tanta",
         "pos": "ADJ",
@@ -39947,6 +40581,14 @@
       {
         "headword": "tenía",
         "pos": "VERB",
+        "translation": "to have",
+        "context": "to possess",
+        "source": "spanishdict",
+        "sense_id": "sd:tenía#1"
+      },
+      {
+        "headword": "tenía",
+        "pos": "VERB",
         "translation": "to take",
         "context": "to grasp or carry",
         "source": "spanishdict",
@@ -39972,6 +40614,14 @@
         "context": "to possess",
         "source": "spanishdict",
         "sense_id": "sd:tenías#1"
+      },
+      {
+        "headword": "tenías",
+        "pos": "VERB",
+        "translation": "to take",
+        "context": "to grasp or carry",
+        "source": "spanishdict",
+        "sense_id": "sd:tenías#6"
       }
     ],
     "word": "tenías"
@@ -40098,6 +40748,14 @@
         "context": "to possess",
         "source": "spanishdict",
         "sense_id": "sd:tienen#1"
+      },
+      {
+        "headword": "tienen",
+        "pos": "VERB",
+        "translation": "to take",
+        "context": "to grasp or carry",
+        "source": "spanishdict",
+        "sense_id": "sd:tienen#6"
       }
     ],
     "word": "tienen"
@@ -40890,10 +41548,10 @@
       {
         "headword": "yerba",
         "pos": "NOUN",
-        "translation": "herb",
+        "translation": "grass",
         "context": "botany",
         "source": "spanishdict",
-        "sense_id": "sd:yerba#1"
+        "sense_id": "sd:yerba#2"
       }
     ],
     "word": "yerba"
@@ -40999,6 +41657,14 @@
       "e730f7": "explotándote"
     },
     "senses": [
+      {
+        "headword": "explotar",
+        "pos": "VERB",
+        "translation": "to exploit",
+        "context": "to use",
+        "source": "spanishdict",
+        "sense_id": "sd:explotar#1"
+      },
       {
         "headword": "explotar",
         "pos": "VERB",

@@ -4,29 +4,29 @@
       "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
       "card_count": 10687,
       "example_card_count": 10687,
-      "examples_content_id": "sha256:faf3eeb9c1ca00c80b7b6e256cca589233954c9b2238f96193e1fb5915bf7cb5",
-      "index_content_id": "sha256:eb8521481a976a6afe7f22f5eebc0d5247eb84c3e4740c67f1ad0b73dc9ed28d",
+      "examples_content_id": "sha256:b2bf5df9be30fe7fb85cc0373a2d5827c8812a0ffbfed4179f29dc7f0a14cc36",
+      "index_content_id": "sha256:62cab90ba77c5382fbc20479ea01b4c3a22d7a712b0ae1f200f884151a6276d8",
       "language": "es",
-      "master_content_id": "sha256:4b597e1a4679da8bedcd5e72e51e39df123177ff28b56d581bfe6a8a7cb6f97d",
+      "master_content_id": "sha256:7f77aa7ada63fc5823fe648e7b0394aea00e85d585368833158e84e3a3b98638",
       "migration_status": "retained_materialized_output_for_product_parity",
       "name": "Bad Bunny",
       "slug": "bad-bunny",
       "song_count": 295,
       "source_id": "wsd_v19_plant_bad-bunny",
-      "wsd_evidence_content_id": "sha256:555dfd84a8636eb70d1424abc91a78ae9197312285eb7d65dcf1eebd242b43ee"
+      "wsd_evidence_content_id": "sha256:64887de10a3890cdd9f2d75ea3e82d942bfd290adefe1fe5ce6afbbc8d7a73e4"
     }
   ],
   "composition_version": "lyrics-release-composition/v1",
   "conflict_policy": "error",
-  "created_at": "2026-09-26T14:05:01.902492+00:00",
+  "created_at": "2026-09-26T16:55:15.825717+00:00",
   "fallback_policy": "none",
   "layers": {
     "artist:bad-bunny": {
       "artifact_ids": {
-        "examples": "sha256:faf3eeb9c1ca00c80b7b6e256cca589233954c9b2238f96193e1fb5915bf7cb5",
-        "index": "sha256:eb8521481a976a6afe7f22f5eebc0d5247eb84c3e4740c67f1ad0b73dc9ed28d",
-        "master": "sha256:4b597e1a4679da8bedcd5e72e51e39df123177ff28b56d581bfe6a8a7cb6f97d",
-        "wsd_evidence": "sha256:555dfd84a8636eb70d1424abc91a78ae9197312285eb7d65dcf1eebd242b43ee"
+        "examples": "sha256:b2bf5df9be30fe7fb85cc0373a2d5827c8812a0ffbfed4179f29dc7f0a14cc36",
+        "index": "sha256:62cab90ba77c5382fbc20479ea01b4c3a22d7a712b0ae1f200f884151a6276d8",
+        "master": "sha256:7f77aa7ada63fc5823fe648e7b0394aea00e85d585368833158e84e3a3b98638",
+        "wsd_evidence": "sha256:64887de10a3890cdd9f2d75ea3e82d942bfd290adefe1fe5ce6afbbc8d7a73e4"
       },
       "requires": {},
       "source_id": "wsd_v19_plant_bad-bunny",

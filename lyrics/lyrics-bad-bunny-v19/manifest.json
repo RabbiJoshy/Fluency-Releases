@@ -4,9 +4,9 @@
   "card_count": 10687,
   "catalog_content_id": "sha256:6303e40b5345c7236fd72b3955de6b19be363bf0980563e359f91b0abfff8693",
   "catalog_path": "app/config/artists.json",
-  "composition_content_id": "sha256:61f2333137953939a78e89179a8b5a40cfda1b5fa0175d4d3218ad357f5789e1",
+  "composition_content_id": "sha256:efee461f970720ed20b08c96512f1da8e15a79eccbcb173ce37fb5ecb3c2bd50",
   "composition_path": "composition.json",
-  "created_at": "2026-09-26T14:05:01.902492+00:00",
+  "created_at": "2026-09-26T16:55:15.825717+00:00",
   "files": [
     {
       "bytes": 74157,
@@ -59,13 +59,13 @@
       "path": "app/Artists/es/bad-bunny/albums.json"
     },
     {
-      "bytes": 19383720,
-      "content_id": "sha256:faf3eeb9c1ca00c80b7b6e256cca589233954c9b2238f96193e1fb5915bf7cb5",
+      "bytes": 31783191,
+      "content_id": "sha256:b2bf5df9be30fe7fb85cc0373a2d5827c8812a0ffbfed4179f29dc7f0a14cc36",
       "path": "app/Artists/es/bad-bunny/examples.json"
     },
     {
-      "bytes": 28636805,
-      "content_id": "sha256:eb8521481a976a6afe7f22f5eebc0d5247eb84c3e4740c67f1ad0b73dc9ed28d",
+      "bytes": 28661452,
+      "content_id": "sha256:62cab90ba77c5382fbc20479ea01b4c3a22d7a712b0ae1f200f884151a6276d8",
       "path": "app/Artists/es/bad-bunny/index.json"
     },
     {
@@ -74,13 +74,13 @@
       "path": "app/Artists/es/bad-bunny/songs.json"
     },
     {
-      "bytes": 5707808,
-      "content_id": "sha256:4b597e1a4679da8bedcd5e72e51e39df123177ff28b56d581bfe6a8a7cb6f97d",
+      "bytes": 5797434,
+      "content_id": "sha256:7f77aa7ada63fc5823fe648e7b0394aea00e85d585368833158e84e3a3b98638",
       "path": "app/Artists/es/bad-bunny/vocabulary_master.json"
     },
     {
-      "bytes": 23075023,
-      "content_id": "sha256:555dfd84a8636eb70d1424abc91a78ae9197312285eb7d65dcf1eebd242b43ee",
+      "bytes": 32973561,
+      "content_id": "sha256:64887de10a3890cdd9f2d75ea3e82d942bfd290adefe1fe5ce6afbbc8d7a73e4",
       "path": "app/Artists/es/bad-bunny/wsd-evidence.json"
     },
     {
