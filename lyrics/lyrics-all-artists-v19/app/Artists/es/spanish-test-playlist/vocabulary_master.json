@@ -1557,11 +1557,12 @@
       },
       {
         "headword": "ser",
-        "pos": "VERB",
-        "translation": "to root for",
-        "context": "to be associated with; used with \"de\"",
+        "pos": "NOUN",
+        "translation": "people",
+        "context": "human",
         "source": "spanishdict",
-        "sense_id": "sd:ser#3"
+        "sense_id": "sd:ser#5",
+        "inflected_surface": "ere'"
       }
     ],
     "word": "eres"
@@ -3053,18 +3054,11 @@
       {
         "headword": "ojo",
         "pos": "NOUN",
-        "translation": "eye",
+        "translation": "eyes",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:ojo#1"
-      },
-      {
-        "headword": "ojo",
-        "pos": "NOUN",
-        "translation": "span",
-        "context": "opening",
-        "source": "spanishdict",
-        "sense_id": "sd:ojo#3"
+        "sense_id": "sd:ojo#1",
+        "inflected_surface": "ojo'"
       }
     ],
     "word": "ojos"
@@ -3377,18 +3371,11 @@
       {
         "headword": "mi",
         "pos": "ADJ",
-        "translation": "my",
+        "translation": "mies",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:mi#1"
-      },
-      {
-        "headword": "mi",
-        "pos": "NOUN",
-        "translation": "mi",
-        "context": "musical note",
-        "source": "spanishdict",
-        "sense_id": "sd:mi#3"
+        "sense_id": "sd:mi#1",
+        "inflected_surface": "mi'"
       }
     ],
     "word": "mis"
@@ -3454,10 +3441,11 @@
       {
         "headword": "tu",
         "pos": "ADJ",
-        "translation": "your",
+        "translation": "yours",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:tu#1"
+        "sense_id": "sd:tu#1",
+        "inflected_surface": "tu'"
       }
     ],
     "word": "tus"
@@ -3559,10 +3547,11 @@
       {
         "headword": "amigo",
         "pos": "NOUN",
-        "translation": "friend",
+        "translation": "friends",
         "context": "companion",
         "source": "spanishdict",
-        "sense_id": "sd:amigo#1"
+        "sense_id": "sd:amigo#1",
+        "inflected_surface": "amigo'"
       }
     ],
     "word": "amigos"
@@ -5478,10 +5467,11 @@
       {
         "headword": "canción",
         "pos": "NOUN",
-        "translation": "song",
+        "translation": "songs",
         "context": "general",
         "source": "spanishdict",
-        "sense_id": "sd:canción#1"
+        "sense_id": "sd:canción#1",
+        "inflected_surface": "cancione'"
       }
     ],
     "word": "canciones"
@@ -5946,10 +5936,19 @@
       {
         "headword": "dos",
         "pos": "ADJ",
-        "translation": "two",
+        "translation": "twos",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:dos#1"
+        "sense_id": "sd:dos#1",
+        "inflected_surface": "do'"
+      },
+      {
+        "headword": "do",
+        "pos": "VERB",
+        "translation": "dedicarse a",
+        "context": "to work as",
+        "source": "spanishdict",
+        "sense_id": "sd:do#4"
       }
     ],
     "word": "dos"
@@ -6426,10 +6425,11 @@
       {
         "headword": "noche",
         "pos": "NOUN",
-        "translation": "night",
+        "translation": "nights",
         "context": "time of day",
         "source": "spanishdict",
-        "sense_id": "sd:noche#1"
+        "sense_id": "sd:noche#1",
+        "inflected_surface": "noche'"
       }
     ],
     "word": "noches"
@@ -7610,10 +7610,11 @@
       {
         "headword": "solo",
         "pos": "ADJ",
-        "translation": "alone",
+        "translation": "alones",
         "context": "unaccompanied",
         "source": "spanishdict",
-        "sense_id": "sd:solo#1"
+        "sense_id": "sd:solo#1",
+        "inflected_surface": "solo'"
       }
     ],
     "word": "solos"
@@ -8283,10 +8284,11 @@
       {
         "headword": "herida",
         "pos": "NOUN",
-        "translation": "wound",
+        "translation": "wounds",
         "context": "hurt",
         "source": "spanishdict",
-        "sense_id": "sd:herida#1"
+        "sense_id": "sd:herida#1",
+        "inflected_surface": "herida'"
       }
     ],
     "word": "heridas"
@@ -8304,10 +8306,11 @@
       {
         "headword": "botella",
         "pos": "NOUN",
-        "translation": "bottle",
+        "translation": "bottles",
         "context": "container",
         "source": "spanishdict",
-        "sense_id": "sd:botella#1"
+        "sense_id": "sd:botella#1",
+        "inflected_surface": "botella'"
       }
     ],
     "word": "botellas"
@@ -8368,10 +8371,11 @@
       {
         "headword": "pendiente",
         "pos": "ADJ",
-        "translation": "pending",
+        "translation": "pendings",
         "context": "unresolved",
         "source": "spanishdict",
-        "sense_id": "sd:pendiente#1"
+        "sense_id": "sd:pendiente#1",
+        "inflected_surface": "pendiente'"
       }
     ],
     "word": "pendientes"
@@ -9343,10 +9347,11 @@
       {
         "headword": "su",
         "pos": "ADJ",
-        "translation": "his",
+        "translation": "hises",
         "context": "possessive; third person",
         "source": "spanishdict",
-        "sense_id": "sd:su#1"
+        "sense_id": "sd:su#1",
+        "inflected_surface": "su'"
       }
     ],
     "word": "sus"
@@ -9480,10 +9485,11 @@
       {
         "headword": "todos",
         "pos": "ADJ",
-        "translation": "all",
+        "translation": "alls",
         "context": "the totality of",
         "source": "spanishdict",
-        "sense_id": "sd:todos#1"
+        "sense_id": "sd:todos#1",
+        "inflected_surface": "todo'"
       },
       {
         "headword": "todos",
@@ -9831,10 +9837,11 @@
       {
         "headword": "día",
         "pos": "NOUN",
-        "translation": "day",
+        "translation": "days",
         "context": "period of time",
         "source": "spanishdict",
-        "sense_id": "sd:día#1"
+        "sense_id": "sd:día#1",
+        "inflected_surface": "día'"
       }
     ],
     "word": "días"
@@ -9999,12 +10006,13 @@
     ],
     "senses": [
       {
-        "headword": "cosa",
+        "headword": "cosas",
         "pos": "NOUN",
-        "translation": "thing",
-        "context": "object",
+        "translation": "things",
+        "context": "circumstances",
         "source": "spanishdict",
-        "sense_id": "sd:cosa#3"
+        "sense_id": "sd:cosas#1",
+        "inflected_surface": "cosa'"
       }
     ],
     "word": "cosas"
@@ -10322,10 +10330,11 @@
       {
         "headword": "amor",
         "pos": "NOUN",
-        "translation": "love",
+        "translation": "loves",
         "context": "feeling",
         "source": "spanishdict",
-        "sense_id": "sd:amor#1"
+        "sense_id": "sd:amor#1",
+        "inflected_surface": "amore'"
       }
     ],
     "word": "amores"
@@ -10670,10 +10679,11 @@
       {
         "headword": "hora",
         "pos": "NOUN",
-        "translation": "time",
-        "context": "specific time",
+        "translation": "hours",
+        "context": "period of time",
         "source": "spanishdict",
-        "sense_id": "sd:hora#2"
+        "sense_id": "sd:hora#1",
+        "inflected_surface": "hora'"
       }
     ],
     "word": "horas"
@@ -10719,12 +10729,21 @@
     ],
     "senses": [
       {
-        "headword": "esta",
+        "headword": "estas",
         "pos": "ADJ",
-        "translation": "this",
+        "translation": "theses",
         "context": "feminine demonstrative",
         "source": "spanishdict",
-        "sense_id": "sd:esta#3"
+        "sense_id": "sd:estas#1",
+        "inflected_surface": "esta'"
+      },
+      {
+        "headword": "estas",
+        "pos": "PRON",
+        "translation": "these ones",
+        "context": "feminine demonstrative",
+        "source": "spanishdict",
+        "sense_id": "sd:estas#2"
       }
     ],
     "word": "estas"
@@ -11004,10 +11023,11 @@
       {
         "headword": "algunos",
         "pos": "ADJ",
-        "translation": "some",
+        "translation": "somes",
         "context": "indeterminate",
         "source": "spanishdict",
-        "sense_id": "sd:algunos#1"
+        "sense_id": "sd:algunos#1",
+        "inflected_surface": "alguno'"
       }
     ],
     "word": "algunos"
@@ -11282,12 +11302,13 @@
     ],
     "senses": [
       {
-        "headword": "ese",
+        "headword": "esas",
         "pos": "ADJ",
-        "translation": "that",
+        "translation": "thoses",
         "context": "demonstrative",
         "source": "spanishdict",
-        "sense_id": "sd:ese#3"
+        "sense_id": "sd:esas#1",
+        "inflected_surface": "esa'"
       }
     ],
     "word": "esas"
@@ -13522,10 +13543,11 @@
       {
         "headword": "puerta",
         "pos": "NOUN",
-        "translation": "door",
+        "translation": "doors",
         "context": "entrance",
         "source": "spanishdict",
-        "sense_id": "sd:puerta#1"
+        "sense_id": "sd:puerta#1",
+        "inflected_surface": "puerta'"
       }
     ],
     "word": "puertas"
@@ -13816,10 +13838,11 @@
       {
         "headword": "vacación",
         "pos": "NOUN",
-        "translation": "holiday",
+        "translation": "vacations",
         "context": "general",
         "source": "spanishdict",
-        "sense_id": "sd:vacación#2"
+        "sense_id": "sd:vacación#1",
+        "inflected_surface": "vacacione'"
       }
     ],
     "word": "vacaciones"
@@ -14511,10 +14534,11 @@
       {
         "headword": "red",
         "pos": "NOUN",
-        "translation": "network",
+        "translation": "networks",
         "context": "computing",
         "source": "spanishdict",
-        "sense_id": "sd:red#1"
+        "sense_id": "sd:red#1",
+        "inflected_surface": "rede'"
       }
     ],
     "word": "redes"
@@ -15117,7 +15141,8 @@
         "translation": "private parts",
         "context": "genitals",
         "source": "spanishdict",
-        "sense_id": "sd:partes#1"
+        "sense_id": "sd:partes#1",
+        "inflected_surface": "parte'"
       }
     ],
     "word": "partes"
@@ -15332,10 +15357,11 @@
       {
         "headword": "número",
         "pos": "NOUN",
-        "translation": "number",
+        "translation": "numbers",
         "context": "mathematics",
         "source": "spanishdict",
-        "sense_id": "sd:número#1"
+        "sense_id": "sd:número#1",
+        "inflected_surface": "número'"
       }
     ],
     "word": "números"
@@ -15515,10 +15541,11 @@
       {
         "headword": "relaciones",
         "pos": "NOUN",
-        "translation": "relationship",
+        "translation": "terms",
         "context": "dealings",
         "source": "spanishdict",
-        "sense_id": "sd:relaciones#3"
+        "sense_id": "sd:relaciones#1",
+        "inflected_surface": "relacione'"
       }
     ],
     "word": "relaciones"
@@ -15672,7 +15699,8 @@
         "translation": "stairs",
         "context": "in a building",
         "source": "spanishdict",
-        "sense_id": "sd:escalera#1"
+        "sense_id": "sd:escalera#1",
+        "inflected_surface": "escalera'"
       }
     ],
     "word": "escaleras"
@@ -16017,10 +16045,11 @@
       {
         "headword": "labio",
         "pos": "NOUN",
-        "translation": "edge",
-        "context": "brim",
+        "translation": "lips",
+        "context": "part of mouth",
         "source": "spanishdict",
-        "sense_id": "sd:labio#3"
+        "sense_id": "sd:labio#1",
+        "inflected_surface": "labio'"
       }
     ],
     "word": "labios"
@@ -17401,10 +17430,11 @@
       {
         "headword": "tema",
         "pos": "NOUN",
-        "translation": "subject",
+        "translation": "subjects",
         "context": "matter",
         "source": "spanishdict",
-        "sense_id": "sd:tema#1"
+        "sense_id": "sd:tema#1",
+        "inflected_surface": "tema'"
       }
     ],
     "word": "temas"
@@ -17797,7 +17827,8 @@
         "translation": "arts",
         "context": "education",
         "source": "spanishdict",
-        "sense_id": "sd:letras#1"
+        "sense_id": "sd:letras#1",
+        "inflected_surface": "letra'"
       }
     ],
     "word": "letras"
@@ -18005,10 +18036,11 @@
       {
         "headword": "pistola",
         "pos": "NOUN",
-        "translation": "pistol",
+        "translation": "pistols",
         "context": "weaponry",
         "source": "spanishdict",
-        "sense_id": "sd:pistola#1"
+        "sense_id": "sd:pistola#1",
+        "inflected_surface": "pistola'"
       }
     ],
     "word": "pistolas"
@@ -18347,10 +18379,11 @@
       {
         "headword": "lío",
         "pos": "NOUN",
-        "translation": "mess",
+        "translation": "messes",
         "context": "confusion",
         "source": "spanishdict",
-        "sense_id": "sd:lío#1"
+        "sense_id": "sd:lío#1",
+        "inflected_surface": "lío'"
       }
     ],
     "word": "líos"
@@ -18415,12 +18448,13 @@
     ],
     "senses": [
       {
-        "headword": "vuelta",
+        "headword": "vueltas",
         "pos": "NOUN",
-        "translation": "turn",
-        "context": "rotation",
+        "translation": "difficults",
+        "context": "complications",
         "source": "spanishdict",
-        "sense_id": "sd:vuelta#3"
+        "sense_id": "sd:vueltas#1",
+        "inflected_surface": "vuelta'"
       }
     ],
     "word": "vueltas"
@@ -18737,10 +18771,11 @@
       {
         "headword": "cadena",
         "pos": "NOUN",
-        "translation": "chain",
+        "translation": "chains",
         "context": "joined links",
         "source": "spanishdict",
-        "sense_id": "sd:cadena#1"
+        "sense_id": "sd:cadena#1",
+        "inflected_surface": "cadena'"
       }
     ],
     "word": "cadenas"
@@ -18973,10 +19008,11 @@
       {
         "headword": "rojo",
         "pos": "ADJ",
-        "translation": "red",
+        "translation": "reds",
         "context": "color",
         "source": "spanishdict",
-        "sense_id": "sd:rojo#1"
+        "sense_id": "sd:rojo#1",
+        "inflected_surface": "rojo'"
       }
     ],
     "word": "rojos"
@@ -19317,10 +19353,11 @@
       {
         "headword": "video",
         "pos": "NOUN",
-        "translation": "video",
+        "translation": "videos",
         "context": "film",
         "source": "spanishdict",
-        "sense_id": "sd:video#1"
+        "sense_id": "sd:video#1",
+        "inflected_surface": "video'"
       }
     ],
     "word": "videos"
@@ -19532,10 +19569,11 @@
       {
         "headword": "premio",
         "pos": "NOUN",
-        "translation": "prize",
+        "translation": "prizes",
         "context": "honor",
         "source": "spanishdict",
-        "sense_id": "sd:premio#1"
+        "sense_id": "sd:premio#1",
+        "inflected_surface": "premio'"
       }
     ],
     "word": "premios"
@@ -22989,10 +23027,11 @@
       {
         "headword": "seta",
         "pos": "NOUN",
-        "translation": "mushroom",
+        "translation": "mushrooms",
         "context": "culinary",
         "source": "spanishdict",
-        "sense_id": "sd:seta#1"
+        "sense_id": "sd:seta#1",
+        "inflected_surface": "seta'"
       }
     ],
     "word": "setas"
@@ -23277,10 +23316,11 @@
       {
         "headword": "himno",
         "pos": "NOUN",
-        "translation": "anthem",
+        "translation": "anthems",
         "context": "music",
         "source": "spanishdict",
-        "sense_id": "sd:himno#1"
+        "sense_id": "sd:himno#1",
+        "inflected_surface": "himno'"
       }
     ],
     "word": "himnos"
@@ -23347,10 +23387,11 @@
       {
         "headword": "ojito",
         "pos": "NOUN",
-        "translation": "little eye",
+        "translation": "little eyes",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:ojito#1"
+        "sense_id": "sd:ojito#1",
+        "inflected_surface": "ojito'"
       }
     ],
     "word": "ojitos"
@@ -24213,10 +24254,11 @@
       {
         "headword": "viral",
         "pos": "ADJ",
-        "translation": "viral",
+        "translation": "virals",
         "context": "medicine",
         "source": "spanishdict",
-        "sense_id": "sd:viral#1"
+        "sense_id": "sd:viral#1",
+        "inflected_surface": "virale'"
       }
     ],
     "word": "virales"
@@ -24492,10 +24534,11 @@
       {
         "headword": "cachetes",
         "pos": "NOUN",
-        "translation": "bottom",
+        "translation": "bottoms",
         "context": "buttocks",
         "source": "spanishdict",
-        "sense_id": "sd:cachetes#1"
+        "sense_id": "sd:cachetes#1",
+        "inflected_surface": "cachete'"
       }
     ],
     "word": "cachetes"
@@ -24923,10 +24966,11 @@
       {
         "headword": "sicario",
         "pos": "NOUN",
-        "translation": "hired assassin",
+        "translation": "hired assassins",
         "context": "contract killer",
         "source": "spanishdict",
-        "sense_id": "sd:sicario#1"
+        "sense_id": "sd:sicario#1",
+        "inflected_surface": "sicario'"
       }
     ],
     "word": "sicarios"
@@ -25187,10 +25231,11 @@
       {
         "headword": "maleante",
         "pos": "NOUN",
-        "translation": "criminal",
+        "translation": "criminals",
         "context": "thug",
         "source": "spanishdict",
-        "sense_id": "sd:maleante#1"
+        "sense_id": "sd:maleante#1",
+        "inflected_surface": "maleante'"
       }
     ],
     "word": "maleantes"
@@ -25498,10 +25543,11 @@
       {
         "headword": "discoteca",
         "pos": "NOUN",
-        "translation": "nightclub",
+        "translation": "nightclubs",
         "context": "place for dancing",
         "source": "spanishdict",
-        "sense_id": "sd:discoteca#1"
+        "sense_id": "sd:discoteca#1",
+        "inflected_surface": "discoteca'"
       }
     ],
     "word": "discotecas"
@@ -25629,10 +25675,11 @@
       {
         "headword": "juguetón",
         "pos": "ADJ",
-        "translation": "playful",
+        "translation": "playfuls",
         "context": "frisky",
         "source": "spanishdict",
-        "sense_id": "sd:juguetón#1"
+        "sense_id": "sd:juguetón#1",
+        "inflected_surface": "juguetone'"
       }
     ],
     "word": "juguetones"
@@ -26022,10 +26069,11 @@
       {
         "headword": "bobo",
         "pos": "ADJ",
-        "translation": "silly",
+        "translation": "sillies",
         "context": "foolish",
         "source": "spanishdict",
-        "sense_id": "sd:bobo#1"
+        "sense_id": "sd:bobo#1",
+        "inflected_surface": "bobo'"
       }
     ],
     "word": "bobos"
@@ -26182,10 +26230,11 @@
       {
         "headword": "míos",
         "pos": "NOUN",
-        "translation": "my family",
+        "translation": "my families",
         "context": "close relatives",
         "source": "spanishdict",
-        "sense_id": "sd:míos#1"
+        "sense_id": "sd:míos#1",
+        "inflected_surface": "mío'"
       }
     ],
     "word": "míos"
@@ -27597,18 +27646,11 @@
       {
         "headword": "cuero",
         "pos": "NOUN",
-        "translation": "leather",
+        "translation": "leathers",
         "context": "material",
         "source": "spanishdict",
-        "sense_id": "sd:cuero#1"
-      },
-      {
-        "headword": "cuero",
-        "pos": "NOUN",
-        "translation": "skin",
-        "context": "untanned animal pelt",
-        "source": "spanishdict",
-        "sense_id": "sd:cuero#3"
+        "sense_id": "sd:cuero#1",
+        "inflected_surface": "cuero'"
       }
     ],
     "word": "cueros"
@@ -28053,10 +28095,11 @@
       {
         "headword": "ma",
         "pos": "NOUN",
-        "translation": "mom",
+        "translation": "moms",
         "context": "relative",
         "source": "spanishdict",
-        "sense_id": "sd:ma#1"
+        "sense_id": "sd:ma#1",
+        "inflected_surface": "ma'"
       }
     ],
     "word": "ma'"
@@ -28828,10 +28871,11 @@
       {
         "headword": "uña",
         "pos": "NOUN",
-        "translation": "nail",
+        "translation": "nails",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:uña#1"
+        "sense_id": "sd:uña#1",
+        "inflected_surface": "uña'"
       }
     ],
     "word": "uñas"
@@ -29175,7 +29219,8 @@
         "translation": "assets",
         "context": "finance",
         "source": "spanishdict",
-        "sense_id": "sd:activos#1"
+        "sense_id": "sd:activos#1",
+        "inflected_surface": "activo'"
       }
     ],
     "word": "activos"
@@ -29538,10 +29583,11 @@
       {
         "headword": "ambos",
         "pos": "ADJ",
-        "translation": "both",
+        "translation": "boths",
         "context": "the two",
         "source": "spanishdict",
-        "sense_id": "sd:ambos#1"
+        "sense_id": "sd:ambos#1",
+        "inflected_surface": "ambo'"
       }
     ],
     "word": "ambos"
@@ -29934,10 +29980,11 @@
       {
         "headword": "asiento",
         "pos": "NOUN",
-        "translation": "entry",
-        "context": "submission",
+        "translation": "seats",
+        "context": "place to sit",
         "source": "spanishdict",
-        "sense_id": "sd:asiento#2"
+        "sense_id": "sd:asiento#1",
+        "inflected_surface": "asiento'"
       }
     ],
     "word": "asientos"
@@ -30017,10 +30064,11 @@
       {
         "headword": "año",
         "pos": "NOUN",
-        "translation": "year",
+        "translation": "years",
         "context": "period of time",
         "source": "spanishdict",
-        "sense_id": "sd:año#1"
+        "sense_id": "sd:año#1",
+        "inflected_surface": "año'"
       }
     ],
     "word": "años"
@@ -30263,10 +30311,11 @@
       {
         "headword": "bendición",
         "pos": "NOUN",
-        "translation": "blessing",
+        "translation": "blessings",
         "context": "religious favor",
         "source": "spanishdict",
-        "sense_id": "sd:bendición#1"
+        "sense_id": "sd:bendición#1",
+        "inflected_surface": "bendicione'"
       }
     ],
     "word": "bendiciones"
@@ -30351,7 +30400,8 @@
         "translation": "Bermuda shorts",
         "context": "clothing",
         "source": "spanishdict",
-        "sense_id": "sd:bermudas#1"
+        "sense_id": "sd:bermudas#1",
+        "inflected_surface": "bermuda'"
       }
     ],
     "word": "bermudas"
@@ -30375,12 +30425,13 @@
     ],
     "senses": [
       {
-        "headword": "beso",
+        "headword": "besos",
         "pos": "NOUN",
-        "translation": "kiss",
-        "context": "gesture",
+        "translation": "kisses",
+        "context": "gestures",
         "source": "spanishdict",
-        "sense_id": "sd:beso#4"
+        "sense_id": "sd:besos#1",
+        "inflected_surface": "beso'"
       }
     ],
     "word": "besos"
@@ -30835,10 +30886,11 @@
       {
         "headword": "cabrón",
         "pos": "NOUN",
-        "translation": "bastard",
+        "translation": "bastards",
         "context": "hated person",
         "source": "spanishdict",
-        "sense_id": "sd:cabrón#1"
+        "sense_id": "sd:cabrón#1",
+        "inflected_surface": "cabrone'"
       }
     ],
     "word": "cabrones"
@@ -30876,10 +30928,11 @@
       {
         "headword": "cachonda",
         "pos": "ADJ",
-        "translation": "in heat",
+        "translation": "in heats",
         "context": "biology",
         "source": "spanishdict",
-        "sense_id": "sd:cachonda#1"
+        "sense_id": "sd:cachonda#1",
+        "inflected_surface": "cachondas"
       }
     ],
     "word": "cachondas"
@@ -31181,10 +31234,11 @@
       {
         "headword": "capítulo",
         "pos": "NOUN",
-        "translation": "chapter",
+        "translation": "chapters",
         "context": "division of book",
         "source": "spanishdict",
-        "sense_id": "sd:capítulo#1"
+        "sense_id": "sd:capítulo#1",
+        "inflected_surface": "capitulos"
       }
     ],
     "word": "capitulos"
@@ -31264,10 +31318,11 @@
       {
         "headword": "carta",
         "pos": "NOUN",
-        "translation": "letter",
+        "translation": "letters",
         "context": "written communication",
         "source": "spanishdict",
-        "sense_id": "sd:carta#1"
+        "sense_id": "sd:carta#1",
+        "inflected_surface": "carta'"
       }
     ],
     "word": "cartas"
@@ -31616,10 +31671,11 @@
       {
         "headword": "cojón",
         "pos": "NOUN",
-        "translation": "ball",
-        "context": "male genitalia",
+        "translation": "loads",
+        "context": "bunch",
         "source": "spanishdict",
-        "sense_id": "sd:cojón#3"
+        "sense_id": "sd:cojón#4",
+        "inflected_surface": "cojone'"
       }
     ],
     "word": "cojones"
@@ -32187,11 +32243,12 @@
     "senses": [
       {
         "headword": "cuarto",
-        "pos": "NOUN",
-        "translation": "room",
-        "context": "living space",
+        "pos": "ADJ",
+        "translation": "fourths",
+        "context": "ordinal number",
         "source": "spanishdict",
-        "sense_id": "sd:cuarto#4"
+        "sense_id": "sd:cuarto#1",
+        "inflected_surface": "cuarto'"
       }
     ],
     "word": "cuartos"
@@ -32252,10 +32309,11 @@
       {
         "headword": "cuerpo",
         "pos": "NOUN",
-        "translation": "body",
+        "translation": "bodies",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:cuerpo#1"
+        "sense_id": "sd:cuerpo#1",
+        "inflected_surface": "cuerpo'"
       }
     ],
     "word": "cuerpos"
@@ -32294,10 +32352,11 @@
       {
         "headword": "culo",
         "pos": "NOUN",
-        "translation": "butt",
+        "translation": "butts",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:culo#1"
+        "sense_id": "sd:culo#1",
+        "inflected_surface": "culo'"
       }
     ],
     "word": "culos"
@@ -32485,10 +32544,11 @@
       {
         "headword": "delincuente",
         "pos": "NOUN",
-        "translation": "criminal",
+        "translation": "criminals",
         "context": "legal",
         "source": "spanishdict",
-        "sense_id": "sd:delincuente#1"
+        "sense_id": "sd:delincuente#1",
+        "inflected_surface": "delincuente'"
       }
     ],
     "word": "delincuentes"
@@ -32572,12 +32632,12 @@
     "lemma": "demonio",
     "senses": [
       {
-        "headword": "demonio",
-        "pos": "NOUN",
-        "translation": "devil",
-        "context": "supernatural being",
+        "headword": "demonios",
+        "pos": "INTJ",
+        "translation": "damn it",
+        "context": "used to express annoyance",
         "source": "spanishdict",
-        "sense_id": "sd:demonio#4"
+        "sense_id": "sd:demonios#1"
       }
     ],
     "word": "demonios"
@@ -33401,10 +33461,11 @@
       {
         "headword": "enemigo",
         "pos": "NOUN",
-        "translation": "enemy",
+        "translation": "enemies",
         "context": "adversary",
         "source": "spanishdict",
-        "sense_id": "sd:enemigo#1"
+        "sense_id": "sd:enemigo#1",
+        "inflected_surface": "enemigo'"
       }
     ],
     "word": "enemigos"
@@ -34192,10 +34253,11 @@
       {
         "headword": "grande",
         "pos": "ADJ",
-        "translation": "tall",
-        "context": "height",
+        "translation": "bigs",
+        "context": "size",
         "source": "spanishdict",
-        "sense_id": "sd:grande#4"
+        "sense_id": "sd:grande#1",
+        "inflected_surface": "grande'"
       }
     ],
     "word": "grandes"
@@ -34448,10 +34510,11 @@
       {
         "headword": "hecho",
         "pos": "NOUN",
-        "translation": "fact",
+        "translation": "facts",
         "context": "reality",
         "source": "spanishdict",
-        "sense_id": "sd:hecho#1"
+        "sense_id": "sd:hecho#1",
+        "inflected_surface": "hecho'"
       }
     ],
     "word": "hechos"
@@ -35767,7 +35830,8 @@
         "translation": "jeans",
         "context": "clothing",
         "source": "spanishdict",
-        "sense_id": "sd:mahón#2"
+        "sense_id": "sd:mahón#2",
+        "inflected_surface": "mahone'"
       }
     ],
     "word": "mahones"
@@ -36031,12 +36095,13 @@
     ],
     "senses": [
       {
-        "headword": "mano",
+        "headword": "manos",
         "pos": "NOUN",
-        "translation": "hand",
-        "context": "anatomy",
+        "translation": "workers",
+        "context": "help",
         "source": "spanishdict",
-        "sense_id": "sd:mano#2"
+        "sense_id": "sd:manos#1",
+        "inflected_surface": "mano'"
       }
     ],
     "word": "manos"
@@ -36191,10 +36256,11 @@
       {
         "headword": "mejor",
         "pos": "ADJ",
-        "translation": "best",
+        "translation": "betters",
         "context": "improved or superior",
         "source": "spanishdict",
-        "sense_id": "sd:mejor#2"
+        "sense_id": "sd:mejor#1",
+        "inflected_surface": "mejore'"
       }
     ],
     "word": "mejores"
@@ -36866,11 +36932,12 @@
     "senses": [
       {
         "headword": "nuestro",
-        "pos": "PRON",
+        "pos": "ADJ",
         "translation": "ours",
         "context": "possessive; first person plural",
         "source": "spanishdict",
-        "sense_id": "sd:nuestro#2"
+        "sense_id": "sd:nuestro#1",
+        "inflected_surface": "nuestro'"
       }
     ],
     "word": "nuestros"
@@ -36930,10 +36997,11 @@
       {
         "headword": "ola",
         "pos": "NOUN",
-        "translation": "front",
-        "context": "weather",
+        "translation": "waves",
+        "context": "sea",
         "source": "spanishdict",
-        "sense_id": "sd:ola#2"
+        "sense_id": "sd:ola#1",
+        "inflected_surface": "ola'"
       }
     ],
     "word": "olas"
@@ -37175,10 +37243,11 @@
       {
         "headword": "palomería",
         "pos": "NOUN",
-        "translation": "pigeon shooting",
+        "translation": "pigeon shootings",
         "context": "hunting",
         "source": "spanishdict",
-        "sense_id": "sd:palomería#1"
+        "sense_id": "sd:palomería#1",
+        "inflected_surface": "palomería'"
       }
     ],
     "word": "palomerías"
@@ -37769,10 +37838,11 @@
       {
         "headword": "perro",
         "pos": "NOUN",
-        "translation": "dog",
+        "translation": "dogs",
         "context": "animal",
         "source": "spanishdict",
-        "sense_id": "sd:perro#1"
+        "sense_id": "sd:perro#1",
+        "inflected_surface": "perra'"
       }
     ],
     "word": "perras"
@@ -37833,10 +37903,11 @@
       {
         "headword": "peso",
         "pos": "NOUN",
-        "translation": "weight",
+        "translation": "weights",
         "context": "physics",
         "source": "spanishdict",
-        "sense_id": "sd:peso#1"
+        "sense_id": "sd:peso#1",
+        "inflected_surface": "peso'"
       }
     ],
     "word": "pesos"
@@ -37946,10 +38017,11 @@
       {
         "headword": "piedra",
         "pos": "NOUN",
-        "translation": "stone",
+        "translation": "stones",
         "context": "mineral",
         "source": "spanishdict",
-        "sense_id": "sd:piedra#1"
+        "sense_id": "sd:piedra#1",
+        "inflected_surface": "piedra'"
       }
     ],
     "word": "piedras"
@@ -38198,10 +38270,11 @@
       {
         "headword": "polvo",
         "pos": "NOUN",
-        "translation": "dust",
+        "translation": "dusts",
         "context": "earth particles",
         "source": "spanishdict",
-        "sense_id": "sd:polvo#1"
+        "sense_id": "sd:polvo#1",
+        "inflected_surface": "polvo'"
       }
     ],
     "word": "polvos"
@@ -38423,10 +38496,11 @@
       {
         "headword": "presidente",
         "pos": "NOUN",
-        "translation": "president",
+        "translation": "presidents",
         "context": "of a nation",
         "source": "spanishdict",
-        "sense_id": "sd:presidente#1"
+        "sense_id": "sd:presidente#1",
+        "inflected_surface": "presidente'"
       }
     ],
     "word": "presidentes"
@@ -38488,12 +38562,13 @@
     ],
     "senses": [
       {
-        "headword": "prueba",
+        "headword": "pruebas",
         "pos": "NOUN",
-        "translation": "test",
-        "context": "assessment",
+        "translation": "evidences",
+        "context": "legal",
         "source": "spanishdict",
-        "sense_id": "sd:prueba#2"
+        "sense_id": "sd:pruebas#1",
+        "inflected_surface": "prueba'"
       }
     ],
     "word": "pruebas"
@@ -40295,10 +40370,11 @@
       {
         "headword": "sábana",
         "pos": "NOUN",
-        "translation": "sheet",
+        "translation": "sheets",
         "context": "for a bed",
         "source": "spanishdict",
-        "sense_id": "sd:sábana#1"
+        "sense_id": "sd:sábana#1",
+        "inflected_surface": "sábana'"
       }
     ],
     "word": "sábanas"
@@ -40673,10 +40749,11 @@
       {
         "headword": "tetilla",
         "pos": "NOUN",
-        "translation": "nipple",
+        "translation": "nipples",
         "context": "anatomy",
         "source": "spanishdict",
-        "sense_id": "sd:tetilla#1"
+        "sense_id": "sd:tetilla#1",
+        "inflected_surface": "tetilla'"
       }
     ],
     "word": "tetillas"
@@ -41208,10 +41285,11 @@
       {
         "headword": "vega",
         "pos": "NOUN",
-        "translation": "meadow",
+        "translation": "meadows",
         "context": "area of flat land",
         "source": "spanishdict",
-        "sense_id": "sd:vega#1"
+        "sense_id": "sd:vega#1",
+        "inflected_surface": "vega'"
       }
     ],
     "word": "vegas"

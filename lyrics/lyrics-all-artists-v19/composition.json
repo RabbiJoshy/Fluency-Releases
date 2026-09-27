@@ -4,16 +4,16 @@
       "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
       "card_count": 10687,
       "example_card_count": 10687,
-      "examples_content_id": "sha256:5f329abadb7ee8c5ed2f37d4c4019731de5f399fe8af41b49a362bb267604dd4",
-      "index_content_id": "sha256:0d845ce129143065c4e10aef9f58e1f8105ca7fa90a11899cc647ea721ce4df7",
+      "examples_content_id": "sha256:ce516375f0e8ecb6d8bdeaa46a496bebdf651382b6020a624eb0326156e1b9ef",
+      "index_content_id": "sha256:5f02a0f3b9d40ac93f675086ee73e037af71b9cb986bdcbe52fd055fc8d8f895",
       "language": "es",
-      "master_content_id": "sha256:f30f5e2f1ff478d6e6d8973f22ffb78c7bf87da908a77cc37181a2a88a118426",
+      "master_content_id": "sha256:39e586c7dcf009943f7b8121de41bef87e7f148e33d07317521ef872cb9f24c4",
       "migration_status": "retained_materialized_output_for_product_parity",
       "name": "Bad Bunny",
       "slug": "bad-bunny",
       "song_count": 295,
       "source_id": "wsd_v19_plant_bad-bunny",
-      "wsd_evidence_content_id": "sha256:0fbc7406fa085ae790f444cf3dd0780511c6c4092130e2dd5941072e8d15379c"
+      "wsd_evidence_content_id": "sha256:b8911dddbac79a5ee28690e8a1446106660a3134ff69d531a52a765d082d7f23"
     },
     {
       "assignment_bridge_status": "native_v7_forced_and_supported_available",
@@ -34,16 +34,16 @@
       "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
       "card_count": 1860,
       "example_card_count": 1860,
-      "examples_content_id": "sha256:b0e73db3ff4bf742dcfeef5d84939c7207d40e0ef9013a99e268207753654594",
-      "index_content_id": "sha256:f796d9b0091ed59a210cc17747008e5086f2c1545e3115202d36949a8562e074",
+      "examples_content_id": "sha256:1733abbfc3d7cdd9d8d76006c4adaff5285bc793d6e11453b9e328d2159699e4",
+      "index_content_id": "sha256:ffbebbe1ac425b19246e9c94713cb4563885b1a2ed3694997772dafa2dfa8d50",
       "language": "es",
-      "master_content_id": "sha256:f1a5a1075c5ef347079f28c5ead6cf7588352a15368e901b2c3d0ca20201d116",
+      "master_content_id": "sha256:63b9613a408f87dd67a9d239b2f89b8fee82116ebe574b5d2b8cb4d0ba97b942",
       "migration_status": "retained_materialized_output_for_product_parity",
       "name": "Joshua's Test Playlist",
       "slug": "spanish-test-playlist",
       "song_count": 31,
       "source_id": "wsd_v19_plant_spanish-test-playlist",
-      "wsd_evidence_content_id": "sha256:324e09d41c08d5cd218a3d9680c29575a0719372c05118347b53549b22a50c86"
+      "wsd_evidence_content_id": "sha256:83370e81da8d6c133d4f65930eeec7a3a39fe6388f61c4d64dd86853183313d5"
     },
     {
       "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
@@ -63,15 +63,15 @@
   ],
   "composition_version": "lyrics-release-composition/v1",
   "conflict_policy": "error",
-  "created_at": "2026-09-27T09:44:43.258549+00:00",
+  "created_at": "2026-09-27T11:44:03.841514+00:00",
   "fallback_policy": "none",
   "layers": {
     "artist:bad-bunny": {
       "artifact_ids": {
-        "examples": "sha256:5f329abadb7ee8c5ed2f37d4c4019731de5f399fe8af41b49a362bb267604dd4",
-        "index": "sha256:0d845ce129143065c4e10aef9f58e1f8105ca7fa90a11899cc647ea721ce4df7",
-        "master": "sha256:f30f5e2f1ff478d6e6d8973f22ffb78c7bf87da908a77cc37181a2a88a118426",
-        "wsd_evidence": "sha256:0fbc7406fa085ae790f444cf3dd0780511c6c4092130e2dd5941072e8d15379c"
+        "examples": "sha256:ce516375f0e8ecb6d8bdeaa46a496bebdf651382b6020a624eb0326156e1b9ef",
+        "index": "sha256:5f02a0f3b9d40ac93f675086ee73e037af71b9cb986bdcbe52fd055fc8d8f895",
+        "master": "sha256:39e586c7dcf009943f7b8121de41bef87e7f148e33d07317521ef872cb9f24c4",
+        "wsd_evidence": "sha256:b8911dddbac79a5ee28690e8a1446106660a3134ff69d531a52a765d082d7f23"
       },
       "requires": {},
       "source_id": "wsd_v19_plant_bad-bunny",
@@ -90,10 +90,10 @@
     },
     "artist:spanish-test-playlist": {
       "artifact_ids": {
-        "examples": "sha256:b0e73db3ff4bf742dcfeef5d84939c7207d40e0ef9013a99e268207753654594",
-        "index": "sha256:f796d9b0091ed59a210cc17747008e5086f2c1545e3115202d36949a8562e074",
-        "master": "sha256:f1a5a1075c5ef347079f28c5ead6cf7588352a15368e901b2c3d0ca20201d116",
-        "wsd_evidence": "sha256:324e09d41c08d5cd218a3d9680c29575a0719372c05118347b53549b22a50c86"
+        "examples": "sha256:1733abbfc3d7cdd9d8d76006c4adaff5285bc793d6e11453b9e328d2159699e4",
+        "index": "sha256:ffbebbe1ac425b19246e9c94713cb4563885b1a2ed3694997772dafa2dfa8d50",
+        "master": "sha256:63b9613a408f87dd67a9d239b2f89b8fee82116ebe574b5d2b8cb4d0ba97b942",
+        "wsd_evidence": "sha256:83370e81da8d6c133d4f65930eeec7a3a39fe6388f61c4d64dd86853183313d5"
       },
       "requires": {},
       "source_id": "wsd_v19_plant_spanish-test-playlist",

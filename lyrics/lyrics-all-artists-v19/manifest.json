@@ -4,9 +4,9 @@
   "card_count": 20232,
   "catalog_content_id": "sha256:279ae2e228eb83dc59973eee85d8333a339fa9c9f25e00cb35d4e484f2c4ae0d",
   "catalog_path": "app/config/artists.json",
-  "composition_content_id": "sha256:5261c7c1e5fcc40034de7e28c11fdc2d6590006ab56c4ec6af22adf1722d20f6",
+  "composition_content_id": "sha256:c16551914e8ca62c232028c7df8e6b9042cea0a6104ef520791b93f85f006e9f",
   "composition_path": "composition.json",
-  "created_at": "2026-09-27T09:44:43.258549+00:00",
+  "created_at": "2026-09-27T11:44:03.841514+00:00",
   "files": [
     {
       "bytes": 74157,
@@ -59,13 +59,13 @@
       "path": "app/Artists/es/bad-bunny/albums.json"
     },
     {
-      "bytes": 25092020,
-      "content_id": "sha256:5f329abadb7ee8c5ed2f37d4c4019731de5f399fe8af41b49a362bb267604dd4",
+      "bytes": 25092052,
+      "content_id": "sha256:ce516375f0e8ecb6d8bdeaa46a496bebdf651382b6020a624eb0326156e1b9ef",
       "path": "app/Artists/es/bad-bunny/examples.json"
     },
     {
-      "bytes": 28707969,
-      "content_id": "sha256:0d845ce129143065c4e10aef9f58e1f8105ca7fa90a11899cc647ea721ce4df7",
+      "bytes": 28708101,
+      "content_id": "sha256:5f02a0f3b9d40ac93f675086ee73e037af71b9cb986bdcbe52fd055fc8d8f895",
       "path": "app/Artists/es/bad-bunny/index.json"
     },
     {
@@ -74,13 +74,13 @@
       "path": "app/Artists/es/bad-bunny/songs.json"
     },
     {
-      "bytes": 5822444,
-      "content_id": "sha256:f30f5e2f1ff478d6e6d8973f22ffb78c7bf87da908a77cc37181a2a88a118426",
+      "bytes": 5853789,
+      "content_id": "sha256:39e586c7dcf009943f7b8121de41bef87e7f148e33d07317521ef872cb9f24c4",
       "path": "app/Artists/es/bad-bunny/vocabulary_master.json"
     },
     {
-      "bytes": 27435966,
-      "content_id": "sha256:0fbc7406fa085ae790f444cf3dd0780511c6c4092130e2dd5941072e8d15379c",
+      "bytes": 27435920,
+      "content_id": "sha256:b8911dddbac79a5ee28690e8a1446106660a3134ff69d531a52a765d082d7f23",
       "path": "app/Artists/es/bad-bunny/wsd-evidence.json"
     },
     {
@@ -149,13 +149,13 @@
       "path": "app/Artists/es/rosalia/wsd-evidence.json"
     },
     {
-      "bytes": 3039414,
-      "content_id": "sha256:b0e73db3ff4bf742dcfeef5d84939c7207d40e0ef9013a99e268207753654594",
+      "bytes": 3039302,
+      "content_id": "sha256:1733abbfc3d7cdd9d8d76006c4adaff5285bc793d6e11453b9e328d2159699e4",
       "path": "app/Artists/es/spanish-test-playlist/examples.json"
     },
     {
-      "bytes": 5612902,
-      "content_id": "sha256:f796d9b0091ed59a210cc17747008e5086f2c1545e3115202d36949a8562e074",
+      "bytes": 5612738,
+      "content_id": "sha256:ffbebbe1ac425b19246e9c94713cb4563885b1a2ed3694997772dafa2dfa8d50",
       "path": "app/Artists/es/spanish-test-playlist/index.json"
     },
     {
@@ -164,13 +164,13 @@
       "path": "app/Artists/es/spanish-test-playlist/songs.json"
     },
     {
-      "bytes": 1004296,
-      "content_id": "sha256:f1a5a1075c5ef347079f28c5ead6cf7588352a15368e901b2c3d0ca20201d116",
+      "bytes": 1007605,
+      "content_id": "sha256:63b9613a408f87dd67a9d239b2f89b8fee82116ebe574b5d2b8cb4d0ba97b942",
       "path": "app/Artists/es/spanish-test-playlist/vocabulary_master.json"
     },
     {
-      "bytes": 3975472,
-      "content_id": "sha256:324e09d41c08d5cd218a3d9680c29575a0719372c05118347b53549b22a50c86",
+      "bytes": 3975493,
+      "content_id": "sha256:83370e81da8d6c133d4f65930eeec7a3a39fe6388f61c4d64dd86853183313d5",
       "path": "app/Artists/es/spanish-test-playlist/wsd-evidence.json"
     },
     {
