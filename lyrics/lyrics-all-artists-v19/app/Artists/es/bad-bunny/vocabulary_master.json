@@ -2329,11 +2329,10 @@
       {
         "headword": "tu",
         "pos": "ADJ",
-        "translation": "yours",
+        "translation": "your",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:tu#1",
-        "inflected_surface": "tu'"
+        "sense_id": "sd:tu#1"
       }
     ],
     "word": "tus"
@@ -2496,11 +2495,10 @@
       {
         "headword": "mi",
         "pos": "ADJ",
-        "translation": "mies",
+        "translation": "my",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:mi#1",
-        "inflected_surface": "mi'"
+        "sense_id": "sd:mi#1"
       }
     ],
     "word": "mis"
@@ -2851,11 +2849,10 @@
       {
         "headword": "dos",
         "pos": "ADJ",
-        "translation": "twos",
+        "translation": "two",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:dos#1",
-        "inflected_surface": "do'"
+        "sense_id": "sd:dos#1"
       },
       {
         "headword": "do",
@@ -3117,11 +3114,10 @@
       {
         "headword": "todos",
         "pos": "ADJ",
-        "translation": "alls",
+        "translation": "all",
         "context": "the totality of",
         "source": "spanishdict",
-        "sense_id": "sd:todos#1",
-        "inflected_surface": "todo'"
+        "sense_id": "sd:todos#1"
       },
       {
         "headword": "todos",
@@ -7206,11 +7202,10 @@
       {
         "headword": "esas",
         "pos": "ADJ",
-        "translation": "thoses",
+        "translation": "those",
         "context": "demonstrative",
         "source": "spanishdict",
-        "sense_id": "sd:esas#1",
-        "inflected_surface": "esa'"
+        "sense_id": "sd:esas#1"
       },
       {
         "headword": "esas",
@@ -7420,11 +7415,10 @@
       {
         "headword": "su",
         "pos": "ADJ",
-        "translation": "hises",
+        "translation": "his",
         "context": "possessive; third person",
         "source": "spanishdict",
-        "sense_id": "sd:su#1",
-        "inflected_surface": "su'"
+        "sense_id": "sd:su#1"
       }
     ],
     "word": "sus"
@@ -8171,11 +8165,10 @@
       {
         "headword": "mío",
         "pos": "ADJ",
-        "translation": "mines",
+        "translation": "mine",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:mío#2",
-        "inflected_surface": "mío'"
+        "sense_id": "sd:mío#2"
       }
     ],
     "word": "míos"
@@ -9306,11 +9299,10 @@
       {
         "headword": "estas",
         "pos": "ADJ",
-        "translation": "theses",
+        "translation": "these",
         "context": "feminine demonstrative",
         "source": "spanishdict",
-        "sense_id": "sd:estas#1",
-        "inflected_surface": "esta'"
+        "sense_id": "sd:estas#1"
       },
       {
         "headword": "estas",
@@ -9371,11 +9363,10 @@
       {
         "headword": "mucho",
         "pos": "ADJ",
-        "translation": "a lot ofs",
+        "translation": "a lot of",
         "context": "a large amount",
         "source": "spanishdict",
-        "sense_id": "sd:mucho#1",
-        "inflected_surface": "mucho'"
+        "sense_id": "sd:mucho#1"
       },
       {
         "headword": "mucho",
@@ -20736,11 +20727,10 @@
       {
         "headword": "mismo",
         "pos": "ADJ",
-        "translation": "sames",
+        "translation": "same",
         "context": "identical",
         "source": "spanishdict",
-        "sense_id": "sd:mismo#1",
-        "inflected_surface": "mismo'"
+        "sense_id": "sd:mismo#1"
       },
       {
         "headword": "mismo",
@@ -22034,11 +22024,10 @@
       {
         "headword": "junto",
         "pos": "ADJ",
-        "translation": "togethers",
+        "translation": "together",
         "context": "in the same place",
         "source": "spanishdict",
-        "sense_id": "sd:junto#1",
-        "inflected_surface": "junto'"
+        "sense_id": "sd:junto#1"
       }
     ],
     "word": "juntos"
@@ -22469,20 +22458,18 @@
       {
         "headword": "mil",
         "pos": "ADJ",
-        "translation": "thousands",
+        "translation": "thousand",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:mil#1",
-        "inflected_surface": "mile'"
+        "sense_id": "sd:mil#1"
       },
       {
         "headword": "mil",
         "pos": "ADJ",
-        "translation": "a thousands",
+        "translation": "a thousand",
         "context": "many",
         "source": "spanishdict",
-        "sense_id": "sd:mil#2",
-        "inflected_surface": "mile'"
+        "sense_id": "sd:mil#2"
       }
     ],
     "word": "miles"
@@ -23138,10 +23125,11 @@
       {
         "headword": "romper",
         "pos": "VERB",
-        "translation": "to break",
+        "translation": "broken",
         "context": "to smash",
         "source": "spanishdict",
-        "sense_id": "sd:romper#4"
+        "sense_id": "sd:romper#4",
+        "inflected_surface": "roto"
       }
     ],
     "word": "roto"
@@ -23315,11 +23303,10 @@
       {
         "headword": "loco",
         "pos": "ADJ",
-        "translation": "crazies",
+        "translation": "crazy",
         "context": "mentally ill",
         "source": "spanishdict",
-        "sense_id": "sd:loco#1",
-        "inflected_surface": "loca'"
+        "sense_id": "sd:loco#1"
       }
     ],
     "word": "locas"
@@ -23428,11 +23415,10 @@
       {
         "headword": "borracho",
         "pos": "ADJ",
-        "translation": "drunks",
+        "translation": "drunk",
         "context": "intoxicated",
         "source": "spanishdict",
-        "sense_id": "sd:borracho#1",
-        "inflected_surface": "borracho'"
+        "sense_id": "sd:borracho#1"
       }
     ],
     "word": "borrachos"
@@ -24444,11 +24430,10 @@
       {
         "headword": "mejor",
         "pos": "ADJ",
-        "translation": "betters",
+        "translation": "better",
         "context": "improved or superior",
         "source": "spanishdict",
-        "sense_id": "sd:mejor#1",
-        "inflected_surface": "mejore'"
+        "sense_id": "sd:mejor#1"
       }
     ],
     "word": "mejores"
@@ -27402,11 +27387,10 @@
       {
         "headword": "tantos",
         "pos": "ADJ",
-        "translation": "so manies",
+        "translation": "so many",
         "context": "expressing quantity",
         "source": "spanishdict",
-        "sense_id": "sd:tantos#1",
-        "inflected_surface": "tanto'"
+        "sense_id": "sd:tantos#1"
       }
     ],
     "word": "tantos"
@@ -27632,11 +27616,10 @@
       {
         "headword": "metido",
         "pos": "ADJ",
-        "translation": "involveds",
+        "translation": "involved",
         "context": "implicated",
         "source": "spanishdict",
-        "sense_id": "sd:metido#1",
-        "inflected_surface": "metido'"
+        "sense_id": "sd:metido#1"
       }
     ],
     "word": "metidos"
@@ -30168,11 +30151,10 @@
       {
         "headword": "grande",
         "pos": "ADJ",
-        "translation": "bigs",
+        "translation": "big",
         "context": "size",
         "source": "spanishdict",
-        "sense_id": "sd:grande#1",
-        "inflected_surface": "grande'"
+        "sense_id": "sd:grande#1"
       }
     ],
     "word": "grandes"
@@ -30831,11 +30813,10 @@
       {
         "headword": "solo",
         "pos": "ADJ",
-        "translation": "alones",
+        "translation": "alone",
         "context": "unaccompanied",
         "source": "spanishdict",
-        "sense_id": "sd:solo#1",
-        "inflected_surface": "solo'"
+        "sense_id": "sd:solo#1"
       }
     ],
     "word": "solos"
@@ -31710,11 +31691,10 @@
       {
         "headword": "malo",
         "pos": "ADJ",
-        "translation": "bads",
+        "translation": "bad",
         "context": "in quality",
         "source": "spanishdict",
-        "sense_id": "sd:malo#1",
-        "inflected_surface": "mala'"
+        "sense_id": "sd:malo#1"
       }
     ],
     "word": "malas"
@@ -32031,8 +32011,7 @@
         "translation": "yours",
         "context": "possessive; second person singular",
         "source": "spanishdict",
-        "sense_id": "sd:tuyo#1",
-        "inflected_surface": "tuyo'"
+        "sense_id": "sd:tuyo#1"
       }
     ],
     "word": "tuyos"
@@ -32310,11 +32289,10 @@
       {
         "headword": "verde",
         "pos": "ADJ",
-        "translation": "greens",
+        "translation": "green",
         "context": "color",
         "source": "spanishdict",
-        "sense_id": "sd:verde#1",
-        "inflected_surface": "verde'"
+        "sense_id": "sd:verde#1"
       }
     ],
     "word": "verdes"
@@ -32604,11 +32582,10 @@
       {
         "headword": "bobo",
         "pos": "ADJ",
-        "translation": "sillies",
+        "translation": "silly",
         "context": "foolish",
         "source": "spanishdict",
-        "sense_id": "sd:bobo#1",
-        "inflected_surface": "bobo'"
+        "sense_id": "sd:bobo#1"
       }
     ],
     "word": "bobos"
@@ -33594,11 +33571,10 @@
       {
         "headword": "intocables",
         "pos": "ADJ",
-        "translation": "untouchables",
+        "translation": "untouchable",
         "context": "off limits",
         "source": "retained_fallback",
-        "sense_id": "retained:intocables#1",
-        "inflected_surface": "intocable'"
+        "sense_id": "retained:intocables#1"
       }
     ],
     "word": "intocables"
@@ -33839,11 +33815,10 @@
       {
         "headword": "otro",
         "pos": "ADJ",
-        "translation": "anothers",
+        "translation": "another",
         "context": "different",
         "source": "spanishdict",
-        "sense_id": "sd:otro#1",
-        "inflected_surface": "otro'"
+        "sense_id": "sd:otro#1"
       },
       {
         "headword": "otro",
@@ -33916,11 +33891,10 @@
       {
         "headword": "nuestro",
         "pos": "ADJ",
-        "translation": "ours",
+        "translation": "our",
         "context": "possessive; first person plural",
         "source": "spanishdict",
-        "sense_id": "sd:nuestro#1",
-        "inflected_surface": "nuestro'"
+        "sense_id": "sd:nuestro#1"
       }
     ],
     "word": "nuestros"
@@ -34567,11 +34541,10 @@
       {
         "headword": "nuevo",
         "pos": "ADJ",
-        "translation": "news",
+        "translation": "new",
         "context": "brand-new",
         "source": "spanishdict",
-        "sense_id": "sd:nuevo#1",
-        "inflected_surface": "nuevo'"
+        "sense_id": "sd:nuevo#1"
       }
     ],
     "word": "nuevos"
@@ -36737,11 +36710,10 @@
       {
         "headword": "cuarto",
         "pos": "ADJ",
-        "translation": "fourths",
+        "translation": "fourth",
         "context": "ordinal number",
         "source": "spanishdict",
-        "sense_id": "sd:cuarto#1",
-        "inflected_surface": "cuarto'"
+        "sense_id": "sd:cuarto#1"
       }
     ],
     "word": "cuartos"
@@ -38930,11 +38902,10 @@
       {
         "headword": "solito",
         "pos": "ADJ",
-        "translation": "alones",
+        "translation": "alone",
         "context": "unaccompanied",
         "source": "spanishdict",
-        "sense_id": "sd:solito#1",
-        "inflected_surface": "solito'"
+        "sense_id": "sd:solito#1"
       }
     ],
     "word": "solitos"
@@ -40880,11 +40851,10 @@
       {
         "headword": "loco",
         "pos": "ADJ",
-        "translation": "crazies",
+        "translation": "crazy",
         "context": "mentally ill",
         "source": "spanishdict",
-        "sense_id": "sd:loco#1",
-        "inflected_surface": "loco'"
+        "sense_id": "sd:loco#1"
       }
     ],
     "word": "locos"
@@ -41644,11 +41614,10 @@
       {
         "headword": "cero",
         "pos": "ADJ",
-        "translation": "zeros",
+        "translation": "zero",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:cero#1",
-        "inflected_surface": "cero'"
+        "sense_id": "sd:cero#1"
       }
     ],
     "word": "ceros"
@@ -42718,11 +42687,10 @@
       {
         "headword": "santo",
         "pos": "ADJ",
-        "translation": "holies",
+        "translation": "holy",
         "context": "sacred",
         "source": "spanishdict",
-        "sense_id": "sd:santo#1",
-        "inflected_surface": "santo'"
+        "sense_id": "sd:santo#1"
       }
     ],
     "word": "santos"
@@ -43321,11 +43289,10 @@
       {
         "headword": "rojo",
         "pos": "ADJ",
-        "translation": "reds",
+        "translation": "red",
         "context": "color",
         "source": "spanishdict",
-        "sense_id": "sd:rojo#1",
-        "inflected_surface": "rojo'"
+        "sense_id": "sd:rojo#1"
       }
     ],
     "word": "rojos"
@@ -43484,11 +43451,10 @@
       {
         "headword": "anormal",
         "pos": "ADJ",
-        "translation": "abnormals",
+        "translation": "abnormal",
         "context": "atypical",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:anormal#1",
-        "inflected_surface": "anormale'",
         "surface_word": "anormale'"
       }
     ],
@@ -43793,10 +43759,11 @@
       {
         "headword": "fijar",
         "pos": "VERB",
-        "translation": "to fix",
+        "translation": "fixed",
         "context": "to put",
         "source": "spanishdict",
-        "sense_id": "sd:fijar#5"
+        "sense_id": "sd:fijar#5",
+        "inflected_surface": "fijo"
       }
     ],
     "word": "fijo"
@@ -44910,11 +44877,10 @@
       {
         "headword": "retros",
         "pos": "ADJ",
-        "translation": "retros",
+        "translation": "retro",
         "context": "imitating past fashion",
         "source": "retained_fallback",
-        "sense_id": "retained:retros#1",
-        "inflected_surface": "retro'"
+        "sense_id": "retained:retros#1"
       }
     ],
     "word": "retros"
@@ -48068,10 +48034,11 @@
       {
         "headword": "querer",
         "pos": "VERB",
-        "translation": "to want",
+        "translation": "wanted",
         "context": "to wish",
         "source": "spanishdict",
-        "sense_id": "sd:querer#6"
+        "sense_id": "sd:querer#6",
+        "inflected_surface": "querido"
       }
     ],
     "word": "querido"
@@ -49165,10 +49132,11 @@
       {
         "headword": "meter",
         "pos": "VERB",
-        "translation": "to put",
+        "translation": "put",
         "context": "to place",
         "source": "spanishdict",
-        "sense_id": "sd:meter#4"
+        "sense_id": "sd:meter#4",
+        "inflected_surface": "metido"
       }
     ],
     "word": "metido"
@@ -50816,11 +50784,10 @@
       {
         "headword": "viejo",
         "pos": "ADJ",
-        "translation": "olds",
+        "translation": "old",
         "context": "elderly",
         "source": "spanishdict",
-        "sense_id": "sd:viejo#1",
-        "inflected_surface": "vieja'"
+        "sense_id": "sd:viejo#1"
       }
     ],
     "word": "viejas"
@@ -51006,11 +50973,10 @@
       {
         "headword": "gris",
         "pos": "ADJ",
-        "translation": "grays",
+        "translation": "gray",
         "context": "color",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:gris#1",
-        "inflected_surface": "grise'",
         "surface_word": "grise'"
       }
     ],
@@ -51522,10 +51488,11 @@
       {
         "headword": "despertar",
         "pos": "VERB",
-        "translation": "to wake up",
+        "translation": "waked up",
         "context": "to awake from sleep",
         "source": "spanishdict",
-        "sense_id": "sd:despertar#5"
+        "sense_id": "sd:despertar#5",
+        "inflected_surface": "despierto"
       }
     ],
     "word": "despierto"
@@ -51793,8 +51760,7 @@
         "translation": "yours",
         "context": "possessive; second person singular",
         "source": "spanishdict",
-        "sense_id": "sd:tuyo#1",
-        "inflected_surface": "tuya'"
+        "sense_id": "sd:tuyo#1"
       }
     ],
     "word": "tuyas"
@@ -52785,11 +52751,10 @@
       {
         "headword": "famoso",
         "pos": "ADJ",
-        "translation": "famouses",
+        "translation": "famous",
         "context": "renowned",
         "source": "spanishdict",
-        "sense_id": "sd:famoso#1",
-        "inflected_surface": "famoso'"
+        "sense_id": "sd:famoso#1"
       }
     ],
     "word": "famosos"
@@ -53495,11 +53460,10 @@
       {
         "headword": "escondido",
         "pos": "ADJ",
-        "translation": "hiddens",
+        "translation": "hidden",
         "context": "not visible",
         "source": "spanishdict",
-        "sense_id": "sd:escondido#1",
-        "inflected_surface": "escondido'"
+        "sense_id": "sd:escondido#1"
       }
     ],
     "word": "escondidos"
@@ -58906,11 +58870,10 @@
       {
         "headword": "segundo",
         "pos": "ADJ",
-        "translation": "seconds",
+        "translation": "second",
         "context": "ordinal number",
         "source": "spanishdict",
-        "sense_id": "sd:segundo#1",
-        "inflected_surface": "segundo'"
+        "sense_id": "sd:segundo#1"
       }
     ],
     "word": "segundos"
@@ -61142,11 +61105,10 @@
       {
         "headword": "poco",
         "pos": "ADJ",
-        "translation": "littles",
+        "translation": "little",
         "context": "not much",
         "source": "spanishdict",
-        "sense_id": "sd:poco#1",
-        "inflected_surface": "poco'"
+        "sense_id": "sd:poco#1"
       },
       {
         "headword": "poco",
@@ -61269,11 +61231,10 @@
       {
         "headword": "tanto",
         "pos": "ADJ",
-        "translation": "so manies",
+        "translation": "so many",
         "context": "expressing quantity",
         "source": "spanishdict",
-        "sense_id": "sd:tanto#2",
-        "inflected_surface": "tanta'"
+        "sense_id": "sd:tanto#2"
       }
     ],
     "word": "tantas"
@@ -61608,11 +61569,10 @@
       {
         "headword": "importante",
         "pos": "ADJ",
-        "translation": "importants",
+        "translation": "important",
         "context": "of considerable meaning",
         "source": "spanishdict",
-        "sense_id": "sd:importante#1",
-        "inflected_surface": "importante'"
+        "sense_id": "sd:importante#1"
       }
     ],
     "word": "importantes"
@@ -61981,11 +61941,10 @@
       {
         "headword": "feo",
         "pos": "ADJ",
-        "translation": "uglies",
+        "translation": "ugly",
         "context": "unattractive",
         "source": "spanishdict",
-        "sense_id": "sd:feo#1",
-        "inflected_surface": "feo'"
+        "sense_id": "sd:feo#1"
       }
     ],
     "word": "feos"
@@ -64918,11 +64877,10 @@
       {
         "headword": "mío",
         "pos": "ADJ",
-        "translation": "mines",
+        "translation": "mine",
         "context": "possessive",
         "source": "spanishdict",
-        "sense_id": "sd:mío#4",
-        "inflected_surface": "mía'"
+        "sense_id": "sd:mío#4"
       }
     ],
     "word": "mías"
@@ -65615,11 +65573,10 @@
       {
         "headword": "duro",
         "pos": "ADJ",
-        "translation": "hards",
+        "translation": "hard",
         "context": "not soft",
         "source": "spanishdict",
-        "sense_id": "sd:duro#1",
-        "inflected_surface": "duro'"
+        "sense_id": "sd:duro#1"
       }
     ],
     "word": "duros"
@@ -65867,11 +65824,10 @@
       {
         "headword": "lindo",
         "pos": "ADJ",
-        "translation": "pretties",
+        "translation": "pretty",
         "context": "beautiful",
         "source": "spanishdict",
-        "sense_id": "sd:lindo#1",
-        "inflected_surface": "lindo'"
+        "sense_id": "sd:lindo#1"
       }
     ],
     "word": "lindos"
@@ -66084,11 +66040,10 @@
       {
         "headword": "lleno",
         "pos": "ADJ",
-        "translation": "fulls",
+        "translation": "full",
         "context": "filled to capacity",
         "source": "spanishdict",
-        "sense_id": "sd:lleno#1",
-        "inflected_surface": "lleno'"
+        "sense_id": "sd:lleno#1"
       }
     ],
     "word": "llenos"
@@ -66649,11 +66604,10 @@
       {
         "headword": "confundido",
         "pos": "ADJ",
-        "translation": "confuseds",
+        "translation": "confused",
         "context": "bewildered",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:confundido#1",
-        "inflected_surface": "confundido'",
         "surface_word": "confundido'"
       }
     ],
@@ -67347,11 +67301,10 @@
       {
         "headword": "pendiente",
         "pos": "ADJ",
-        "translation": "pendings",
+        "translation": "pending",
         "context": "unresolved",
         "source": "spanishdict",
-        "sense_id": "sd:pendiente#1",
-        "inflected_surface": "pendiente'"
+        "sense_id": "sd:pendiente#1"
       }
     ],
     "word": "pendientes"
@@ -67968,11 +67921,10 @@
       {
         "headword": "envuelto",
         "pos": "ADJ",
-        "translation": "wrappeds",
+        "translation": "wrapped",
         "context": "coated",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:envuelto#1",
-        "inflected_surface": "envuelto'",
         "surface_word": "envuelto'"
       }
     ],
@@ -68012,11 +67964,10 @@
       {
         "headword": "fino",
         "pos": "ADJ",
-        "translation": "fines",
+        "translation": "fine",
         "context": "not thick",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:fino#1",
-        "inflected_surface": "fino'",
         "surface_word": "fino'"
       }
     ],
@@ -68486,11 +68437,10 @@
       {
         "headword": "ciego",
         "pos": "ADJ",
-        "translation": "blinds",
+        "translation": "blind",
         "context": "without sight",
         "source": "spanishdict",
-        "sense_id": "sd:ciego#1",
-        "inflected_surface": "ciego'"
+        "sense_id": "sd:ciego#1"
       }
     ],
     "word": "ciegos"
@@ -73405,11 +73355,10 @@
       {
         "headword": "bellaco",
         "pos": "ADJ",
-        "translation": "wickeds",
+        "translation": "wicked",
         "context": "evil",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:bellaco#1",
-        "inflected_surface": "bellaco'",
         "surface_word": "bellaco'"
       }
     ],
@@ -75048,11 +74997,10 @@
       {
         "headword": "prendido",
         "pos": "ADJ",
-        "translation": "ons",
+        "translation": "on",
         "context": "not off",
         "source": "spanishdict",
-        "sense_id": "sd:prendido#1",
-        "inflected_surface": "prendío'"
+        "sense_id": "sd:prendido#1"
       }
     ],
     "word": "prendidos"
@@ -75808,11 +75756,10 @@
       {
         "headword": "mal",
         "pos": "ADJ",
-        "translation": "bads",
+        "translation": "bad",
         "context": "disagreeable",
         "source": "spanishdict",
-        "sense_id": "sd:mal#1",
-        "inflected_surface": "male'"
+        "sense_id": "sd:mal#1"
       }
     ],
     "word": "males"
@@ -76118,20 +76065,18 @@
       {
         "headword": "algunos",
         "pos": "ADJ",
-        "translation": "somes",
+        "translation": "some",
         "context": "indeterminate",
         "source": "spanishdict",
-        "sense_id": "sd:algunos#1",
-        "inflected_surface": "alguno'"
+        "sense_id": "sd:algunos#1"
       },
       {
         "headword": "algunos",
         "pos": "ADJ",
-        "translation": "a fews",
+        "translation": "a few",
         "context": "indeterminate",
         "source": "spanishdict",
-        "sense_id": "sd:algunos#2",
-        "inflected_surface": "alguno'"
+        "sense_id": "sd:algunos#2"
       }
     ],
     "word": "algunos"
@@ -79282,11 +79227,10 @@
       {
         "headword": "diferente",
         "pos": "ADJ",
-        "translation": "differents",
+        "translation": "different",
         "context": "distinct",
         "source": "spanishdict",
-        "sense_id": "sd:diferente#1",
-        "inflected_surface": "diferente'"
+        "sense_id": "sd:diferente#1"
       }
     ],
     "word": "diferentes"
@@ -80782,11 +80726,10 @@
       {
         "headword": "cuanto",
         "pos": "ADJ",
-        "translation": "alls",
+        "translation": "all",
         "context": "everything",
         "source": "spanishdict",
-        "sense_id": "sd:cuanto#4",
-        "inflected_surface": "cuantos"
+        "sense_id": "sd:cuanto#4"
       }
     ],
     "word": "cuantos"
@@ -81412,11 +81355,10 @@
       {
         "headword": "fuerte",
         "pos": "ADJ",
-        "translation": "strongs",
+        "translation": "strong",
         "context": "robust",
         "source": "spanishdict",
-        "sense_id": "sd:fuerte#1",
-        "inflected_surface": "fuerte'"
+        "sense_id": "sd:fuerte#1"
       }
     ],
     "word": "fuertes"
@@ -82203,11 +82145,10 @@
       {
         "headword": "propio",
         "pos": "ADJ",
-        "translation": "owns",
+        "translation": "own",
         "context": "related to property",
         "source": "spanishdict",
-        "sense_id": "sd:propio#1",
-        "inflected_surface": "propio'"
+        "sense_id": "sd:propio#1"
       }
     ],
     "word": "propios"
@@ -83428,11 +83369,10 @@
       {
         "headword": "mental",
         "pos": "ADJ",
-        "translation": "mentals",
+        "translation": "mental",
         "context": "related to the mind",
         "source": "spanishdict",
-        "sense_id": "sd:mental#1",
-        "inflected_surface": "mentale'"
+        "sense_id": "sd:mental#1"
       }
     ],
     "word": "mentales"
@@ -85144,11 +85084,10 @@
       {
         "headword": "azul",
         "pos": "ADJ",
-        "translation": "blues",
+        "translation": "blue",
         "context": "color",
         "source": "spanishdict",
-        "sense_id": "sd:azul#4",
-        "inflected_surface": "azule'"
+        "sense_id": "sd:azul#4"
       }
     ],
     "word": "azules"
@@ -87894,11 +87833,10 @@
       {
         "headword": "seco",
         "pos": "ADJ",
-        "translation": "dries",
+        "translation": "dry",
         "context": "lacking moisture",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:seco#1",
-        "inflected_surface": "seco'",
         "surface_word": "seco'"
       }
     ],
@@ -88004,11 +87942,10 @@
       {
         "headword": "verdadero",
         "pos": "ADJ",
-        "translation": "trues",
+        "translation": "true",
         "context": "correct",
         "source": "spanishdict",
-        "sense_id": "sd:verdadero#1",
-        "inflected_surface": "verdadero'"
+        "sense_id": "sd:verdadero#1"
       }
     ],
     "word": "verdaderos"
@@ -88739,11 +88676,10 @@
       {
         "headword": "sexual",
         "pos": "ADJ",
-        "translation": "sexuals",
+        "translation": "sexual",
         "context": "related to sex",
         "source": "spanishdict",
-        "sense_id": "sd:sexual#1",
-        "inflected_surface": "sexuales"
+        "sense_id": "sd:sexual#1"
       }
     ],
     "word": "sexuales"
@@ -88783,11 +88719,10 @@
       {
         "headword": "sordo",
         "pos": "ADJ",
-        "translation": "deafs",
+        "translation": "deaf",
         "context": "unable to hear",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:sordo#1",
-        "inflected_surface": "sordo'",
         "surface_word": "sordo'"
       }
     ],
@@ -88894,11 +88829,10 @@
       {
         "headword": "contento",
         "pos": "ADJ",
-        "translation": "happies",
+        "translation": "happy",
         "context": "joyful",
         "source": "spanishdict",
-        "sense_id": "sd:contento#1",
-        "inflected_surface": "contento'"
+        "sense_id": "sd:contento#1"
       }
     ],
     "word": "contentos"
@@ -89102,11 +89036,10 @@
       {
         "headword": "menor",
         "pos": "ADJ",
-        "translation": "youngers",
+        "translation": "younger",
         "context": "comparative",
         "source": "spanishdict",
-        "sense_id": "sd:menor#1",
-        "inflected_surface": "menore'"
+        "sense_id": "sd:menor#1"
       }
     ],
     "word": "menores"
@@ -89479,11 +89412,10 @@
       {
         "headword": "clásico",
         "pos": "ADJ",
-        "translation": "classicals",
+        "translation": "classical",
         "context": "related to Ancient Greece and Rome",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:clásico#1",
-        "inflected_surface": "clásico'",
         "surface_word": "clásico'"
       }
     ],
@@ -90128,11 +90060,10 @@
       {
         "headword": "bonito",
         "pos": "ADJ",
-        "translation": "pretties",
+        "translation": "pretty",
         "context": "beautiful",
         "source": "spanishdict",
-        "sense_id": "sd:bonito#1",
-        "inflected_surface": "bonito'"
+        "sense_id": "sd:bonito#1"
       },
       {
         "headword": "bonito",
@@ -90629,11 +90560,10 @@
       {
         "headword": "social",
         "pos": "ADJ",
-        "translation": "socials",
+        "translation": "social",
         "context": "related to society",
         "source": "spanishdict",
-        "sense_id": "sd:social#1",
-        "inflected_surface": "sociale'"
+        "sense_id": "sd:social#1"
       }
     ],
     "word": "sociales"
@@ -93656,11 +93586,10 @@
       {
         "headword": "corto",
         "pos": "ADJ",
-        "translation": "shorts",
+        "translation": "short",
         "context": "length",
         "source": "spanishdict",
-        "sense_id": "sd:corto#1",
-        "inflected_surface": "corto'"
+        "sense_id": "sd:corto#1"
       }
     ],
     "word": "cortos"
@@ -94006,11 +93935,10 @@
       {
         "headword": "inmortal",
         "pos": "ADJ",
-        "translation": "immortals",
+        "translation": "immortal",
         "context": "eternal",
         "source": "spanishdict",
-        "sense_id": "sd:inmortal#1",
-        "inflected_surface": "inmortale'"
+        "sense_id": "sd:inmortal#1"
       }
     ],
     "word": "inmortales"
@@ -94138,11 +94066,10 @@
       {
         "headword": "natural",
         "pos": "ADJ",
-        "translation": "naturals",
+        "translation": "natural",
         "context": "not artificial",
         "source": "spanishdict",
-        "sense_id": "sd:natural#1",
-        "inflected_surface": "naturale'"
+        "sense_id": "sd:natural#1"
       }
     ],
     "word": "naturales"
@@ -94637,11 +94564,10 @@
       {
         "headword": "abdominal",
         "pos": "ADJ",
-        "translation": "abdominals",
+        "translation": "abdominal",
         "context": "related to the abdomen",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:abdominal#1",
-        "inflected_surface": "abdominale'",
         "surface_word": "abdominale'"
       }
     ],
@@ -94883,11 +94809,10 @@
       {
         "headword": "caro",
         "pos": "ADJ",
-        "translation": "expensives",
+        "translation": "expensive",
         "context": "costly",
         "source": "spanishdict",
-        "sense_id": "sd:caro#1",
-        "inflected_surface": "caros"
+        "sense_id": "sd:caro#1"
       }
     ],
     "word": "caros"
@@ -94990,11 +94915,10 @@
       {
         "headword": "claro",
         "pos": "ADJ",
-        "translation": "clears",
+        "translation": "clear",
         "context": "obvious",
         "source": "spanishdict",
-        "sense_id": "sd:claro#1",
-        "inflected_surface": "claro'"
+        "sense_id": "sd:claro#1"
       }
     ],
     "word": "claros"
@@ -102698,11 +102622,10 @@
       {
         "headword": "cachas",
         "pos": "ADJ",
-        "translation": "musclies",
+        "translation": "muscly",
         "context": "strong",
         "source": "spanishdict",
-        "sense_id": "sd:cachas#1",
-        "inflected_surface": "cachas"
+        "sense_id": "sd:cachas#1"
       }
     ],
     "word": "cachas"
@@ -109596,11 +109519,10 @@
       {
         "headword": "puertorriqueño",
         "pos": "ADJ",
-        "translation": "Puerto Ricans",
+        "translation": "Puerto Rican",
         "context": "of Puerto Rican origin",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:puertorriqueño#1",
-        "inflected_surface": "puertorriqueño'",
         "surface_word": "puertorriqueño'"
       }
     ],
@@ -113212,11 +113134,10 @@
       {
         "headword": "supuesto",
         "pos": "ADJ",
-        "translation": "supposeds",
+        "translation": "supposed",
         "context": "unconfirmed",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:supuesto#1",
-        "inflected_surface": "supuesto'",
         "surface_word": "supuesto'"
       }
     ],
@@ -113358,11 +113279,10 @@
       {
         "headword": "cuatro",
         "pos": "ADJ",
-        "translation": "fours",
+        "translation": "four",
         "context": "number",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:cuatro#1",
-        "inflected_surface": "cuatro'",
         "surface_word": "cuatro'"
       }
     ],
@@ -113813,11 +113733,10 @@
       {
         "headword": "nuestro",
         "pos": "ADJ",
-        "translation": "ours",
+        "translation": "our",
         "context": "possessive; first person plural",
         "source": "spanishdict",
-        "sense_id": "sd:nuestro#1",
-        "inflected_surface": "nuestra'"
+        "sense_id": "sd:nuestro#1"
       }
     ],
     "word": "nuestras"
@@ -114626,11 +114545,10 @@
       {
         "headword": "normal",
         "pos": "ADJ",
-        "translation": "normals",
+        "translation": "normal",
         "context": "usual",
         "source": "spanishdict",
-        "sense_id": "sd:normal#1",
-        "inflected_surface": "normale'"
+        "sense_id": "sd:normal#1"
       }
     ],
     "word": "normales"
@@ -115511,11 +115429,10 @@
       {
         "headword": "bienvenido",
         "pos": "ADJ",
-        "translation": "welcomes",
+        "translation": "welcome",
         "context": "received gladly",
         "source": "spanishdict",
-        "sense_id": "sd:bienvenido#1",
-        "inflected_surface": "bienvenía'"
+        "sense_id": "sd:bienvenido#1"
       }
     ],
     "word": "bienvenidas"
@@ -117912,11 +117829,10 @@
       {
         "headword": "último",
         "pos": "ADJ",
-        "translation": "lasts",
+        "translation": "last",
         "context": "final",
         "source": "spanishdict",
-        "sense_id": "sd:último#1",
-        "inflected_surface": "últimos"
+        "sense_id": "sd:último#1"
       }
     ],
     "word": "últimos"
@@ -118774,11 +118690,10 @@
       {
         "headword": "nueve",
         "pos": "ADJ",
-        "translation": "nines",
+        "translation": "nine",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:nueve#1",
-        "inflected_surface": "nueve'"
+        "sense_id": "sd:nueve#1"
       }
     ],
     "word": "nueves"
@@ -119891,11 +119806,10 @@
       {
         "headword": "feliz",
         "pos": "ADJ",
-        "translation": "happies",
+        "translation": "happy",
         "context": "joyful",
         "source": "spanishdict",
-        "sense_id": "sd:feliz#1",
-        "inflected_surface": "felices"
+        "sense_id": "sd:feliz#1"
       }
     ],
     "word": "felices"
@@ -120137,11 +120051,10 @@
       {
         "headword": "bienvenido",
         "pos": "ADJ",
-        "translation": "welcomes",
+        "translation": "welcome",
         "context": "received gladly",
         "source": "spanishdict",
-        "sense_id": "sd:bienvenido#1",
-        "inflected_surface": "bienvenido'"
+        "sense_id": "sd:bienvenido#1"
       }
     ],
     "word": "bienvenidos"
@@ -120359,11 +120272,10 @@
       {
         "headword": "seguro",
         "pos": "ADJ",
-        "translation": "safes",
+        "translation": "safe",
         "context": "out of danger",
         "source": "spanishdict",
-        "sense_id": "sd:seguro#1",
-        "inflected_surface": "seguro'"
+        "sense_id": "sd:seguro#1"
       }
     ],
     "word": "seguros"
@@ -120547,11 +120459,10 @@
       {
         "headword": "entero",
         "pos": "ADJ",
-        "translation": "wholes",
+        "translation": "whole",
         "context": "complete",
         "source": "spanishdict",
-        "sense_id": "sd:entero#1",
-        "inflected_surface": "entero'"
+        "sense_id": "sd:entero#1"
       }
     ],
     "word": "enteros"
@@ -121098,11 +121009,10 @@
       {
         "headword": "negro",
         "pos": "ADJ",
-        "translation": "blacks",
+        "translation": "black",
         "context": "color",
         "source": "spanishdict",
-        "sense_id": "sd:negro#1",
-        "inflected_surface": "negro'"
+        "sense_id": "sd:negro#1"
       }
     ],
     "word": "negros"
@@ -121169,11 +121079,10 @@
       {
         "headword": "ambos",
         "pos": "ADJ",
-        "translation": "boths",
+        "translation": "both",
         "context": "the two",
         "source": "spanishdict",
-        "sense_id": "sd:ambos#1",
-        "inflected_surface": "ambo'"
+        "sense_id": "sd:ambos#1"
       }
     ],
     "word": "ambos"
@@ -121281,11 +121190,10 @@
       {
         "headword": "profundo",
         "pos": "ADJ",
-        "translation": "deeps",
+        "translation": "deep",
         "context": "large distance downward",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:profundo#1",
-        "inflected_surface": "profundo'",
         "surface_word": "profundo'"
       }
     ],
@@ -121353,11 +121261,10 @@
       {
         "headword": "dormido",
         "pos": "ADJ",
-        "translation": "asleeps",
+        "translation": "asleep",
         "context": "not awake",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:dormido#1",
-        "inflected_surface": "dormido'",
         "surface_word": "dormido'"
       }
     ],
@@ -121401,11 +121308,10 @@
       {
         "headword": "frío",
         "pos": "ADJ",
-        "translation": "colds",
+        "translation": "cold",
         "context": "temperature, weather",
         "source": "spanishdict",
-        "sense_id": "sd:frío#1",
-        "inflected_surface": "frío'"
+        "sense_id": "sd:frío#1"
       }
     ],
     "word": "fríos"
@@ -121616,11 +121522,10 @@
       {
         "headword": "malo",
         "pos": "ADJ",
-        "translation": "bads",
+        "translation": "bad",
         "context": "in quality",
         "source": "spanishdict",
-        "sense_id": "sd:malo#1",
-        "inflected_surface": "malo'"
+        "sense_id": "sd:malo#1"
       }
     ],
     "word": "malos"
@@ -123583,11 +123488,10 @@
       {
         "headword": "contrario",
         "pos": "ADJ",
-        "translation": "opposites",
+        "translation": "opposite",
         "context": "contrary",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:contrario#1",
-        "inflected_surface": "contrario'",
         "surface_word": "contrario'"
       }
     ],
@@ -123723,11 +123627,10 @@
       {
         "headword": "ciento",
         "pos": "ADJ",
-        "translation": "a hundreds",
+        "translation": "a hundred",
         "context": "number",
         "source": "spanishdict",
-        "sense_id": "sd:ciento#2",
-        "inflected_surface": "cientos"
+        "sense_id": "sd:ciento#2"
       }
     ],
     "word": "cientos"
@@ -123809,11 +123712,10 @@
       {
         "headword": "especial",
         "pos": "ADJ",
-        "translation": "specials",
+        "translation": "special",
         "context": "exceptional",
         "source": "spanishdict",
-        "sense_id": "sd:especial#1",
-        "inflected_surface": "especiales"
+        "sense_id": "sd:especial#1"
       }
     ],
     "word": "especiales"
@@ -124208,11 +124110,10 @@
       {
         "headword": "primero",
         "pos": "ADJ",
-        "translation": "firsts",
+        "translation": "first",
         "context": "position",
         "source": "spanishdict",
-        "sense_id": "sd:primero#1",
-        "inflected_surface": "primero'"
+        "sense_id": "sd:primero#1"
       }
     ],
     "word": "primeros"
@@ -127664,11 +127565,10 @@
       {
         "headword": "tranquilo",
         "pos": "ADJ",
-        "translation": "calms",
+        "translation": "calm",
         "context": "serene",
         "source": "spanishdict",
-        "sense_id": "sd:tranquilo#1",
-        "inflected_surface": "tranquilo'"
+        "sense_id": "sd:tranquilo#1"
       }
     ],
     "word": "tranquilos"
@@ -128669,11 +128569,10 @@
       {
         "headword": "criminal",
         "pos": "ADJ",
-        "translation": "criminals",
+        "translation": "criminal",
         "context": "illicit",
         "source": "spanishdict",
-        "sense_id": "sd:criminal#1",
-        "inflected_surface": "criminale'"
+        "sense_id": "sd:criminal#1"
       }
     ],
     "word": "criminales"
@@ -129165,11 +129064,10 @@
       {
         "headword": "extraño",
         "pos": "ADJ",
-        "translation": "stranges",
+        "translation": "strange",
         "context": "unusual",
         "source": "spanishdict",
-        "sense_id": "sd:extraño#1",
-        "inflected_surface": "extraño'"
+        "sense_id": "sd:extraño#1"
       }
     ],
     "word": "extraños"
@@ -129902,11 +129800,10 @@
       {
         "headword": "militar",
         "pos": "ADJ",
-        "translation": "militaries",
+        "translation": "military",
         "context": "armed forces",
         "source": "spanishdict",
-        "sense_id": "sd:militar#1",
-        "inflected_surface": "militare'"
+        "sense_id": "sd:militar#1"
       }
     ],
     "word": "militares"
@@ -130313,11 +130210,10 @@
       {
         "headword": "bello",
         "pos": "ADJ",
-        "translation": "beautifuls",
+        "translation": "beautiful",
         "context": "pleasing to the senses",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:bello#1",
-        "inflected_surface": "bellos",
         "surface_word": "bellos"
       }
     ],
@@ -130702,11 +130598,10 @@
       {
         "headword": "peor",
         "pos": "ADJ",
-        "translation": "worses",
+        "translation": "worse",
         "context": "bad",
         "source": "spanishdict",
-        "sense_id": "sd:peor#1",
-        "inflected_surface": "peores"
+        "sense_id": "sd:peor#1"
       }
     ],
     "word": "peores"
@@ -131838,11 +131733,10 @@
       {
         "headword": "elegante",
         "pos": "ADJ",
-        "translation": "elegants",
+        "translation": "elegant",
         "context": "stylish",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:elegante#1",
-        "inflected_surface": "elegante'",
         "surface_word": "elegante'"
       }
     ],
@@ -135449,11 +135343,10 @@
       {
         "headword": "salvaje",
         "pos": "ADJ",
-        "translation": "wilds",
+        "translation": "wild",
         "context": "undomesticated",
         "source": "spanishdict",
-        "sense_id": "sd:salvaje#1",
-        "inflected_surface": "salvaje'"
+        "sense_id": "sd:salvaje#1"
       }
     ],
     "word": "salvajes"
@@ -136774,11 +136667,10 @@
       {
         "headword": "único",
         "pos": "ADJ",
-        "translation": "onlies",
+        "translation": "only",
         "context": "sole",
         "source": "spanishdict",
-        "sense_id": "sd:único#1",
-        "inflected_surface": "único'"
+        "sense_id": "sd:único#1"
       }
     ],
     "word": "únicos"
@@ -138626,11 +138518,10 @@
       {
         "headword": "cierto",
         "pos": "ADJ",
-        "translation": "trues",
+        "translation": "true",
         "context": "real",
         "source": "spanishdict",
-        "sense_id": "sd:cierto#1",
-        "inflected_surface": "cierto'"
+        "sense_id": "sd:cierto#1"
       }
     ],
     "word": "ciertos"
@@ -139076,11 +138967,10 @@
       {
         "headword": "lejano",
         "pos": "ADJ",
-        "translation": "distants",
+        "translation": "distant",
         "context": "far away in space",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:lejano#1",
-        "inflected_surface": "lejano'",
         "surface_word": "lejano'"
       }
     ],
@@ -139367,11 +139257,10 @@
       {
         "headword": "plano",
         "pos": "ADJ",
-        "translation": "flats",
+        "translation": "flat",
         "context": "plane",
         "source": "spanishdict",
-        "sense_id": "sd:plano#1",
-        "inflected_surface": "plano'"
+        "sense_id": "sd:plano#1"
       }
     ],
     "word": "planos"
@@ -142544,11 +142433,10 @@
       {
         "headword": "macho",
         "pos": "ADJ",
-        "translation": "males",
+        "translation": "male",
         "context": "biology",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:macho#1",
-        "inflected_surface": "macho'",
         "surface_word": "macho'"
       }
     ],
@@ -142892,11 +142780,10 @@
       {
         "headword": "raro",
         "pos": "ADJ",
-        "translation": "weirds",
+        "translation": "weird",
         "context": "unusual",
         "source": "spanishdict",
-        "sense_id": "sd:raro#1",
-        "inflected_surface": "raro'"
+        "sense_id": "sd:raro#1"
       }
     ],
     "word": "raros"
@@ -145443,11 +145330,10 @@
       {
         "headword": "veloz",
         "pos": "ADJ",
-        "translation": "fasts",
+        "translation": "fast",
         "context": "general",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:veloz#1",
-        "inflected_surface": "veloces",
         "surface_word": "veloces"
       }
     ],
@@ -146438,11 +146324,10 @@
       {
         "headword": "espectacular",
         "pos": "ADJ",
-        "translation": "spectaculars",
+        "translation": "spectacular",
         "context": "wonderful",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:espectacular#1",
-        "inflected_surface": "espectaculares",
         "surface_word": "espectaculares"
       }
     ],
@@ -146556,11 +146441,10 @@
       {
         "headword": "falso",
         "pos": "ADJ",
-        "translation": "falses",
+        "translation": "false",
         "context": "untrue",
         "source": "spanishdict",
-        "sense_id": "sd:falso#1",
-        "inflected_surface": "falso'"
+        "sense_id": "sd:falso#1"
       }
     ],
     "word": "falsos"
@@ -148203,11 +148087,10 @@
       {
         "headword": "suicida",
         "pos": "ADJ",
-        "translation": "suicidals",
+        "translation": "suicidal",
         "context": "relating to suicide",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:suicida#1",
-        "inflected_surface": "suicida'",
         "surface_word": "suicida'"
       }
     ],
@@ -148911,11 +148794,10 @@
       {
         "headword": "avanzado",
         "pos": "ADJ",
-        "translation": "advanceds",
+        "translation": "advanced",
         "context": "more skilled or knowledgeable",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:avanzado#1",
-        "inflected_surface": "avanzado'",
         "surface_word": "avanzado'"
       }
     ],
@@ -151767,11 +151649,10 @@
       {
         "headword": "bruto",
         "pos": "ADJ",
-        "translation": "stupids",
+        "translation": "stupid",
         "context": "unintelligent",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:bruto#1",
-        "inflected_surface": "brutos",
         "surface_word": "brutos"
       }
     ],
@@ -152125,11 +152006,10 @@
       {
         "headword": "confuso",
         "pos": "ADJ",
-        "translation": "confuseds",
+        "translation": "confused",
         "context": "perplexed",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:confuso#1",
-        "inflected_surface": "confuso'",
         "surface_word": "confuso'"
       }
     ],
@@ -152255,11 +152135,10 @@
       {
         "headword": "cristiano",
         "pos": "ADJ",
-        "translation": "Christians",
+        "translation": "Christian",
         "context": "religious",
         "source": "spanishdict",
-        "sense_id": "sd:cristiano#1",
-        "inflected_surface": "cristianos"
+        "sense_id": "sd:cristiano#1"
       }
     ],
     "word": "cristianos"
@@ -152450,11 +152329,10 @@
       {
         "headword": "desnudo",
         "pos": "ADJ",
-        "translation": "nakeds",
+        "translation": "naked",
         "context": "without clothing",
         "source": "spanishdict",
-        "sense_id": "sd:desnudo#1",
-        "inflected_surface": "desnudo'"
+        "sense_id": "sd:desnudo#1"
       }
     ],
     "word": "desnudos"
@@ -153868,11 +153746,10 @@
       {
         "headword": "opuesto",
         "pos": "ADJ",
-        "translation": "opposites",
+        "translation": "opposite",
         "context": "location",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:opuesto#1",
-        "inflected_surface": "opuestos",
         "surface_word": "opuestos"
       }
     ],
@@ -154322,11 +154199,10 @@
       {
         "headword": "querido",
         "pos": "ADJ",
-        "translation": "dears",
+        "translation": "dear",
         "context": "loved",
         "source": "spanishdict",
-        "sense_id": "sd:querido#1",
-        "inflected_surface": "querido'"
+        "sense_id": "sd:querido#1"
       }
     ],
     "word": "queridos"
@@ -155069,11 +154945,10 @@
       {
         "headword": "elegido",
         "pos": "ADJ",
-        "translation": "chosens",
+        "translation": "chosen",
         "context": "picked",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:elegido#1",
-        "inflected_surface": "elegido'",
         "surface_word": "elegido'"
       }
     ],
@@ -155096,11 +154971,10 @@
       {
         "headword": "listo",
         "pos": "ADJ",
-        "translation": "smarts",
+        "translation": "smart",
         "context": "intelligent",
         "source": "spanishdict",
-        "sense_id": "sd:listo#2",
-        "inflected_surface": "lista'"
+        "sense_id": "sd:listo#2"
       }
     ],
     "word": "listas"
@@ -155139,11 +155013,10 @@
       {
         "headword": "firme",
         "pos": "ADJ",
-        "translation": "firms",
+        "translation": "firm",
         "context": "secure",
         "source": "spanishdict",
-        "sense_id": "sd:firme#2",
-        "inflected_surface": "firme'"
+        "sense_id": "sd:firme#2"
       }
     ],
     "word": "firmes"
@@ -155610,11 +155483,10 @@
       {
         "headword": "anterior",
         "pos": "ADJ",
-        "translation": "previouses",
+        "translation": "previous",
         "context": "in time",
         "source": "spanishdict",
-        "sense_id": "sd:anterior#1",
-        "inflected_surface": "anteriore'"
+        "sense_id": "sd:anterior#1"
       }
     ],
     "word": "anteriores"
@@ -155769,11 +155641,10 @@
       {
         "headword": "artificial",
         "pos": "ADJ",
-        "translation": "artificials",
+        "translation": "artificial",
         "context": "not natural",
         "source": "spanishdict",
-        "sense_id": "sd:artificial#1",
-        "inflected_surface": "artificiales"
+        "sense_id": "sd:artificial#1"
       }
     ],
     "word": "artificiales"
@@ -155976,11 +155847,10 @@
       {
         "headword": "callado",
         "pos": "ADJ",
-        "translation": "silents",
+        "translation": "silent",
         "context": "noiseless",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:callado#1",
-        "inflected_surface": "callados",
         "surface_word": "callados"
       }
     ],
@@ -157053,11 +156923,10 @@
       {
         "headword": "espacial",
         "pos": "ADJ",
-        "translation": "spaces",
+        "translation": "space",
         "context": "related to outer space",
         "source": "spanishdict",
-        "sense_id": "sd:espacial#1",
-        "inflected_surface": "espaciales"
+        "sense_id": "sd:espacial#1"
       }
     ],
     "word": "espaciales"
@@ -159093,11 +158962,10 @@
       {
         "headword": "similar",
         "pos": "ADJ",
-        "translation": "similars",
+        "translation": "similar",
         "context": "alike",
         "source": "spanishdict",
-        "sense_id": "sd:similar#1",
-        "inflected_surface": "similare'"
+        "sense_id": "sd:similar#1"
       }
     ],
     "word": "similares"
@@ -161147,11 +161015,10 @@
       {
         "headword": "dental",
         "pos": "ADJ",
-        "translation": "dentals",
+        "translation": "dental",
         "context": "related to teeth",
         "source": "spanishdict",
-        "sense_id": "sd:dental#1",
-        "inflected_surface": "dentale'"
+        "sense_id": "sd:dental#1"
       }
     ],
     "word": "dentales"
@@ -161724,11 +161591,10 @@
       {
         "headword": "exclusivo",
         "pos": "ADJ",
-        "translation": "exclusives",
+        "translation": "exclusive",
         "context": "only",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:exclusivo#1",
-        "inflected_surface": "exclusivos",
         "surface_word": "exclusivos"
       }
     ],
@@ -162059,11 +161925,10 @@
       {
         "headword": "flaco",
         "pos": "ADJ",
-        "translation": "thins",
+        "translation": "thin",
         "context": "slim",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:flaco#1",
-        "inflected_surface": "flaco'",
         "surface_word": "flaco'"
       }
     ],
@@ -162198,11 +162063,10 @@
       {
         "headword": "ignorante",
         "pos": "ADJ",
-        "translation": "ignorants",
+        "translation": "ignorant",
         "context": "uneducated",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:ignorante#1",
-        "inflected_surface": "ignorante'",
         "surface_word": "ignorante'"
       }
     ],
@@ -162359,11 +162223,10 @@
       {
         "headword": "infinito",
         "pos": "ADJ",
-        "translation": "infinites",
+        "translation": "infinite",
         "context": "unending",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:infinito#1",
-        "inflected_surface": "infinitos",
         "surface_word": "infinitos"
       }
     ],
@@ -164108,11 +163971,10 @@
       {
         "headword": "vacío",
         "pos": "ADJ",
-        "translation": "empties",
+        "translation": "empty",
         "context": "unoccupied",
         "source": "spanishdict",
-        "sense_id": "sd:vacío#1",
-        "inflected_surface": "vacíos"
+        "sense_id": "sd:vacío#1"
       }
     ],
     "word": "vacíos"
@@ -164151,11 +164013,10 @@
       {
         "headword": "vago",
         "pos": "ADJ",
-        "translation": "lazies",
+        "translation": "lazy",
         "context": "idle",
         "source": "spanishdict",
-        "sense_id": "sd:vago#1",
-        "inflected_surface": "vago'"
+        "sense_id": "sd:vago#1"
       }
     ],
     "word": "vagos"
@@ -164983,11 +164844,10 @@
       {
         "headword": "barato",
         "pos": "ADJ",
-        "translation": "cheaps",
+        "translation": "cheap",
         "context": "inexpensive",
         "source": "spanishdict",
-        "sense_id": "sd:barato#1",
-        "inflected_surface": "baratos"
+        "sense_id": "sd:barato#1"
       }
     ],
     "word": "baratos"
@@ -165544,11 +165404,10 @@
       {
         "headword": "conforme",
         "pos": "ADJ",
-        "translation": "happies",
+        "translation": "happy",
         "context": "content",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:conforme#1",
-        "inflected_surface": "conforme'",
         "surface_word": "conforme'"
       }
     ],
@@ -165637,11 +165496,10 @@
       {
         "headword": "corrupto",
         "pos": "ADJ",
-        "translation": "corrupts",
+        "translation": "corrupt",
         "context": "dishonest",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:corrupto#1",
-        "inflected_surface": "corruptos",
         "surface_word": "corruptos"
       }
     ],
@@ -165989,11 +165847,10 @@
       {
         "headword": "disponible",
         "pos": "ADJ",
-        "translation": "availables",
+        "translation": "available",
         "context": "unoccupied",
         "source": "spanishdict",
-        "sense_id": "sd:disponible#1",
-        "inflected_surface": "disponibles"
+        "sense_id": "sd:disponible#1"
       }
     ],
     "word": "disponibles"
@@ -166123,11 +165980,10 @@
       {
         "headword": "enamorado",
         "pos": "ADJ",
-        "translation": "in loves",
+        "translation": "in love",
         "context": "romantic love; often used with \"de\"",
         "source": "spanishdict",
-        "sense_id": "sd:enamorado#6",
-        "inflected_surface": "enamorado'"
+        "sense_id": "sd:enamorado#6"
       }
     ],
     "word": "enamorados"
@@ -166661,11 +166517,10 @@
       {
         "headword": "fanático",
         "pos": "ADJ",
-        "translation": "fanaticals",
+        "translation": "fanatical",
         "context": "enthusiastic",
         "source": "spanishdict",
-        "sense_id": "sd:fanático#1",
-        "inflected_surface": "fanático'"
+        "sense_id": "sd:fanático#1"
       }
     ],
     "word": "fanáticos"
@@ -167422,11 +167277,10 @@
       {
         "headword": "internacional",
         "pos": "ADJ",
-        "translation": "internationals",
+        "translation": "international",
         "context": "related to various nations",
         "source": "spanishdict",
-        "sense_id": "sd:internacional#1",
-        "inflected_surface": "internacionale'"
+        "sense_id": "sd:internacional#1"
       }
     ],
     "word": "internacionales"
@@ -168432,11 +168286,10 @@
       {
         "headword": "octavo",
         "pos": "ADJ",
-        "translation": "eighths",
+        "translation": "eighth",
         "context": "ordinal number",
         "source": "spanishdict",
-        "sense_id": "sd:octavo#1",
-        "inflected_surface": "octavo'"
+        "sense_id": "sd:octavo#1"
       }
     ],
     "word": "octavos"
@@ -168458,11 +168311,10 @@
       {
         "headword": "oculto",
         "pos": "ADJ",
-        "translation": "hiddens",
+        "translation": "hidden",
         "context": "concealed",
         "source": "spanishdict",
-        "sense_id": "sd:oculto#1",
-        "inflected_surface": "ocultos"
+        "sense_id": "sd:oculto#1"
       }
     ],
     "word": "ocultos"
@@ -169190,11 +169042,10 @@
       {
         "headword": "psicológico",
         "pos": "ADJ",
-        "translation": "psychologicals",
+        "translation": "psychological",
         "context": "related to the psyche",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:psicológico#1",
-        "inflected_surface": "psicológico'",
         "surface_word": "psicológico'"
       }
     ],
@@ -169710,11 +169561,10 @@
       {
         "headword": "suelto",
         "pos": "ADJ",
-        "translation": "looses",
+        "translation": "loose",
         "context": "free",
         "source": "spanishdict",
-        "sense_id": "sd:suelto#1",
-        "inflected_surface": "suelto'"
+        "sense_id": "sd:suelto#1"
       }
     ],
     "word": "sueltos"
@@ -169935,11 +169785,10 @@
       {
         "headword": "troyano",
         "pos": "ADJ",
-        "translation": "Trojans",
+        "translation": "Trojan",
         "context": "related to Troy",
         "source": "spanishdict",
-        "sense_id": "sd:troyano#1",
-        "inflected_surface": "troyano'"
+        "sense_id": "sd:troyano#1"
       }
     ],
     "word": "troyanos"
@@ -186622,11 +186471,10 @@
       {
         "headword": "lego",
         "pos": "ADJ",
-        "translation": "lays",
+        "translation": "lay",
         "context": "without religion",
         "source": "spanishdict",
-        "sense_id": "sd:lego#1",
-        "inflected_surface": "lego'"
+        "sense_id": "sd:lego#1"
       }
     ],
     "word": "legos"
@@ -189143,11 +188991,10 @@
       {
         "headword": "rojo",
         "pos": "ADJ",
-        "translation": "reds",
+        "translation": "red",
         "context": "color",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:rojo#1",
-        "inflected_surface": "roja'",
         "surface_word": "roja'"
       }
     ],
@@ -191994,7 +191841,6 @@
         "context": "belonging to someone else",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:ajeno#1",
-        "inflected_surface": "ajenos",
         "surface_word": "ajenos"
       }
     ],
@@ -196419,11 +196265,10 @@
       {
         "headword": "flojos",
         "pos": "ADJ",
-        "translation": "lazies",
+        "translation": "lazy",
         "context": "sluggish",
         "source": "retained_fallback",
-        "sense_id": "retained:flojos#2",
-        "inflected_surface": "flojo'"
+        "sense_id": "retained:flojos#2"
       }
     ],
     "word": "flojos"
@@ -200780,11 +200625,10 @@
       {
         "headword": "pillo",
         "pos": "ADJ",
-        "translation": "naughties",
+        "translation": "naughty",
         "context": "mischievous",
         "source": "spanishdict",
-        "sense_id": "sd:pillo#1",
-        "inflected_surface": "pillo'"
+        "sense_id": "sd:pillo#1"
       }
     ],
     "word": "pillos"
@@ -203221,11 +203065,10 @@
       {
         "headword": "tieso",
         "pos": "ADJ",
-        "translation": "stiffs",
+        "translation": "stiff",
         "context": "firm",
         "source": "spanishdict",
-        "sense_id": "sd:tieso#1",
-        "inflected_surface": "tieso'"
+        "sense_id": "sd:tieso#1"
       }
     ],
     "word": "tiesos"
@@ -206450,11 +206293,10 @@
       {
         "headword": "bruscos",
         "pos": "ADJ",
-        "translation": "suddens",
+        "translation": "sudden",
         "context": "unexpected",
         "source": "retained_fallback",
-        "sense_id": "retained:bruscos#2",
-        "inflected_surface": "bruscos"
+        "sense_id": "retained:bruscos#2"
       }
     ],
     "word": "bruscos"
@@ -207298,11 +207140,10 @@
       {
         "headword": "charro",
         "pos": "ADJ",
-        "translation": "charros",
+        "translation": "charro",
         "context": "belonging to horsemen",
         "source": "spanishdict",
-        "sense_id": "sd:charro#1",
-        "inflected_surface": "charros"
+        "sense_id": "sd:charro#1"
       }
     ],
     "word": "charros"
@@ -211187,11 +211028,10 @@
       {
         "headword": "hippy",
         "pos": "ADJ",
-        "translation": "de cadera anchas",
+        "translation": "de cadera ancha",
         "context": "having prominent hips",
         "source": "spanishdict",
-        "sense_id": "sd:hippy#4",
-        "inflected_surface": "hippie'"
+        "sense_id": "sd:hippy#4"
       }
     ],
     "word": "hippies"
@@ -211882,11 +211722,10 @@
       {
         "headword": "jugosos",
         "pos": "ADJ",
-        "translation": "juicies",
+        "translation": "juicy",
         "context": "full of juice",
         "source": "retained_fallback",
-        "sense_id": "retained:jugosos#2",
-        "inflected_surface": "jugoso'"
+        "sense_id": "retained:jugosos#2"
       }
     ],
     "word": "jugosos"
@@ -212356,11 +212195,10 @@
       {
         "headword": "lujosos",
         "pos": "ADJ",
-        "translation": "luxuriouses",
+        "translation": "luxurious",
         "context": "lavish",
         "source": "retained_fallback",
-        "sense_id": "retained:lujosos#2",
-        "inflected_surface": "lujosos"
+        "sense_id": "retained:lujosos#2"
       }
     ],
     "word": "lujosos"
@@ -213197,11 +213035,10 @@
       {
         "headword": "moreno",
         "pos": "ADJ",
-        "translation": "dark-skinneds",
+        "translation": "dark-skinned",
         "context": "skin",
         "source": "spanishdict",
-        "sense_id": "sd:moreno#1",
-        "inflected_surface": "morena'"
+        "sense_id": "sd:moreno#1"
       }
     ],
     "word": "morenas"
@@ -214950,11 +214787,10 @@
       {
         "headword": "polar",
         "pos": "ADJ",
-        "translation": "polars",
+        "translation": "polar",
         "context": "relating to the poles",
         "source": "spanishdict",
-        "sense_id": "sd:polar#1",
-        "inflected_surface": "polare'"
+        "sense_id": "sd:polar#1"
       }
     ],
     "word": "polares"
@@ -215759,11 +215595,10 @@
       {
         "headword": "rojizos",
         "pos": "ADJ",
-        "translation": "reddishes",
+        "translation": "reddish",
         "context": "color",
         "source": "retained_fallback",
-        "sense_id": "retained:rojizos#2",
-        "inflected_surface": "rojizo'"
+        "sense_id": "retained:rojizos#2"
       }
     ],
     "word": "rojizos"
@@ -217587,11 +217422,10 @@
       {
         "headword": "viral",
         "pos": "ADJ",
-        "translation": "virals",
+        "translation": "viral",
         "context": "medicine",
         "source": "spanishdict",
-        "sense_id": "sd:viral#1",
-        "inflected_surface": "virale'"
+        "sense_id": "sd:viral#1"
       }
     ],
     "word": "virales"
@@ -221880,11 +221714,10 @@
       {
         "headword": "facial",
         "pos": "ADJ",
-        "translation": "facials",
+        "translation": "facial",
         "context": "related to the face",
         "source": "spanishdict",
-        "sense_id": "sd:facial#1",
-        "inflected_surface": "faciales"
+        "sense_id": "sd:facial#1"
       }
     ],
     "word": "faciales"
@@ -222984,11 +222817,10 @@
       {
         "headword": "invictos",
         "pos": "ADJ",
-        "translation": "undefeateds",
+        "translation": "undefeated",
         "context": "general",
         "source": "retained_fallback",
-        "sense_id": "retained:invictos#2",
-        "inflected_surface": "invicto'"
+        "sense_id": "retained:invictos#2"
       }
     ],
     "word": "invictos"
@@ -227070,11 +226902,10 @@
       {
         "headword": "tumbado",
         "pos": "ADJ",
-        "translation": "lying downs",
+        "translation": "lying down",
         "context": "reclining",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:tumbado#1",
-        "inflected_surface": "tumbados",
         "surface_word": "tumbados"
       }
     ],
@@ -227916,11 +227747,10 @@
       {
         "headword": "adictivo",
         "pos": "ADJ",
-        "translation": "addictives",
+        "translation": "addictive",
         "context": "general",
         "source": "spanishdict",
-        "sense_id": "sd:adictivo#1",
-        "inflected_surface": "adictivo'"
+        "sense_id": "sd:adictivo#1"
       }
     ],
     "word": "adictivos"
@@ -228048,11 +227878,10 @@
       {
         "headword": "amarillo",
         "pos": "ADJ",
-        "translation": "yellows",
+        "translation": "yellow",
         "context": "color",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:amarillo#1",
-        "inflected_surface": "amarillo'",
         "surface_word": "amarillo'"
       }
     ],
@@ -229397,11 +229226,10 @@
       {
         "headword": "chiquitos",
         "pos": "ADJ",
-        "translation": "tinies",
+        "translation": "tiny",
         "context": "little",
         "source": "retained_fallback",
-        "sense_id": "retained:chiquitos#1",
-        "inflected_surface": "chiquitos"
+        "sense_id": "retained:chiquitos#1"
       }
     ],
     "word": "chiquitos"
@@ -229532,11 +229360,10 @@
       {
         "headword": "cortantes",
         "pos": "ADJ",
-        "translation": "sharps",
+        "translation": "sharp",
         "context": "edged",
         "source": "retained_fallback",
-        "sense_id": "retained:cortantes#1",
-        "inflected_surface": "cortante'"
+        "sense_id": "retained:cortantes#1"
       }
     ],
     "word": "cortantes"
@@ -230800,11 +230627,10 @@
       {
         "headword": "federico",
         "pos": "ADJ",
-        "translation": "uglies",
+        "translation": "ugly",
         "context": "unattractive",
         "source": "spanishdict",
-        "sense_id": "sd:federico#1",
-        "inflected_surface": "federico'"
+        "sense_id": "sd:federico#1"
       }
     ],
     "word": "federicos"
@@ -230868,11 +230694,10 @@
       {
         "headword": "ficticios",
         "pos": "ADJ",
-        "translation": "fictionals",
+        "translation": "fictional",
         "context": "imaginary",
         "source": "retained_fallback",
-        "sense_id": "retained:ficticios#2",
-        "inflected_surface": "ficticios"
+        "sense_id": "retained:ficticios#2"
       }
     ],
     "word": "ficticios"
@@ -231862,11 +231687,10 @@
       {
         "headword": "lluviosos",
         "pos": "ADJ",
-        "translation": "rainies",
+        "translation": "rainy",
         "context": "day",
         "source": "retained_fallback",
-        "sense_id": "retained:lluviosos#2",
-        "inflected_surface": "lluvioso'"
+        "sense_id": "retained:lluviosos#2"
       }
     ],
     "word": "lluviosos"
@@ -232468,11 +232292,10 @@
       {
         "headword": "noqueados",
         "pos": "ADJ",
-        "translation": "knocked outs",
+        "translation": "knocked out",
         "context": "general",
         "source": "retained_fallback",
-        "sense_id": "retained:noqueados#2",
-        "inflected_surface": "noqueados"
+        "sense_id": "retained:noqueados#2"
       }
     ],
     "word": "noqueados"
@@ -235086,11 +234909,10 @@
       {
         "headword": "archivados",
         "pos": "ADJ",
-        "translation": "archiveds",
+        "translation": "archived",
         "context": "saved",
         "source": "retained_fallback",
-        "sense_id": "retained:archivados#2",
-        "inflected_surface": "archivado'"
+        "sense_id": "retained:archivados#2"
       }
     ],
     "word": "archivados"
@@ -235492,11 +235314,10 @@
       {
         "headword": "cardinales",
         "pos": "ADJ",
-        "translation": "cardinals",
+        "translation": "cardinal",
         "context": "main",
         "source": "retained_fallback",
-        "sense_id": "retained:cardinales#2",
-        "inflected_surface": "cardinales"
+        "sense_id": "retained:cardinales#2"
       }
     ],
     "word": "cardinales"
@@ -235859,11 +235680,10 @@
       {
         "headword": "crujientes",
         "pos": "ADJ",
-        "translation": "crunchies",
+        "translation": "crunchy",
         "context": "texture",
         "source": "retained_fallback",
-        "sense_id": "retained:crujientes#2",
-        "inflected_surface": "crujiente'"
+        "sense_id": "retained:crujientes#2"
       }
     ],
     "word": "crujientes"
@@ -236714,11 +236534,10 @@
       {
         "headword": "histéricos",
         "pos": "ADJ",
-        "translation": "hystericals",
+        "translation": "hysterical",
         "context": "agitated",
         "source": "retained_fallback",
-        "sense_id": "retained:histéricos#2",
-        "inflected_surface": "histérico'"
+        "sense_id": "retained:histéricos#2"
       }
     ],
     "word": "histéricos"
@@ -237820,11 +237639,10 @@
       {
         "headword": "preparado",
         "pos": "ADJ",
-        "translation": "prepareds",
+        "translation": "prepared",
         "context": "in an appropriate condition",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:preparado#1",
-        "inflected_surface": "preparado'",
         "surface_word": "preparado'"
       }
     ],
@@ -238964,11 +238782,10 @@
       {
         "headword": "chiquitito",
         "pos": "ADJ",
-        "translation": "tinies",
+        "translation": "tiny",
         "context": "general",
         "source": "spanishdict",
-        "sense_id": "sd:chiquitito#1",
-        "inflected_surface": "chiquitito'"
+        "sense_id": "sd:chiquitito#1"
       }
     ],
     "word": "chiquititos"
@@ -239032,11 +238849,10 @@
       {
         "headword": "compartidos",
         "pos": "ADJ",
-        "translation": "shareds",
+        "translation": "shared",
         "context": "communal",
         "source": "retained_fallback",
-        "sense_id": "retained:compartidos#2",
-        "inflected_surface": "compartido'"
+        "sense_id": "retained:compartidos#2"
       }
     ],
     "word": "compartidos"
@@ -239838,11 +239654,10 @@
       {
         "headword": "legendario",
         "pos": "ADJ",
-        "translation": "legendaries",
+        "translation": "legendary",
         "context": "related to legends",
         "source": "spanishdict",
-        "sense_id": "sd:legendario#1",
-        "inflected_surface": "legendarios"
+        "sense_id": "sd:legendario#1"
       }
     ],
     "word": "legendarios"
@@ -240075,11 +239890,10 @@
       {
         "headword": "peliculero",
         "pos": "ADJ",
-        "translation": "movie fans",
+        "translation": "movie fan",
         "context": "fond of movies",
         "source": "spanishdict",
-        "sense_id": "sd:peliculero#1",
-        "inflected_surface": "peliculero'"
+        "sense_id": "sd:peliculero#1"
       }
     ],
     "word": "peliculeros"
@@ -240534,11 +240348,10 @@
       {
         "headword": "arrepentidos",
         "pos": "ADJ",
-        "translation": "repentants",
+        "translation": "repentant",
         "context": "apologetic",
         "source": "retained_fallback",
-        "sense_id": "retained:arrepentidos#2",
-        "inflected_surface": "arrepentido'"
+        "sense_id": "retained:arrepentidos#2"
       }
     ],
     "word": "arrepentidos"
@@ -240971,11 +240784,10 @@
       {
         "headword": "inolvidables",
         "pos": "ADJ",
-        "translation": "unforgettables",
+        "translation": "unforgettable",
         "context": "general",
         "source": "retained_fallback",
-        "sense_id": "retained:inolvidables#2",
-        "inflected_surface": "inolvidables"
+        "sense_id": "retained:inolvidables#2"
       }
     ],
     "word": "inolvidables"
@@ -241391,11 +241203,10 @@
       {
         "headword": "sanguinarios",
         "pos": "ADJ",
-        "translation": "bloodthirsties",
+        "translation": "bloodthirsty",
         "context": "ruthless",
         "source": "retained_fallback",
-        "sense_id": "retained:sanguinarios#1",
-        "inflected_surface": "sanguinario'"
+        "sense_id": "retained:sanguinarios#1"
       }
     ],
     "word": "sanguinarios"
@@ -241649,11 +241460,10 @@
       {
         "headword": "fluorescentes",
         "pos": "ADJ",
-        "translation": "fluorescentes",
+        "translation": "fluorescente",
         "context": "which has fluorescence",
         "source": "retained_fallback",
-        "sense_id": "retained:fluorescentes#2",
-        "inflected_surface": "fluorescente'"
+        "sense_id": "retained:fluorescentes#2"
       }
     ],
     "word": "fluorescentes"
@@ -242341,11 +242151,10 @@
       {
         "headword": "solar",
         "pos": "ADJ",
-        "translation": "solars",
+        "translation": "solar",
         "context": "general",
         "source": "spanishdict:headword_borrow",
         "sense_id": "sd:solar#1",
-        "inflected_surface": "solare'",
         "surface_word": "solare'"
       }
     ],
